@@ -1101,7 +1101,7 @@
             "last_commit": "2026-08-10T22:27:19Z",
             "owner": "yezz123",
             "repo": "authx",
-            "stars": 1195
+            "stars": 1197
           }
         },
         {
@@ -1112,7 +1112,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T15:53:34Z",
+            "last_commit": "2026-08-13T15:52:55Z",
             "owner": "karimhabush",
             "repo": "cyberowl",
             "stars": 262
@@ -1747,7 +1747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:18:58.613Z",
+    "last_updated": "2026-08-14T07:17:18.640Z",
     "original_repository": "geeksblabla/awesome-morocco",
     "original_repository_sha": "9d66e3ab4f3d57b6ae7ab04f4c2b0552f271b4ff",
     "enhanced_repository": "enhansome/enhansome-morocco",
