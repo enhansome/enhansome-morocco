@@ -741,8 +741,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Blade",
-            "last_commit": "2026-05-08T11:55:39Z",
+            "language": "PHP",
+            "last_commit": "2026-08-15T22:48:21Z",
             "owner": "Zakarialabib",
             "repo": "myStockMaster",
             "stars": 438
@@ -1101,7 +1101,7 @@
             "last_commit": "2026-08-10T22:27:19Z",
             "owner": "yezz123",
             "repo": "authx",
-            "stars": 1197
+            "stars": 1198
           }
         },
         {
@@ -1112,7 +1112,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T15:44:34Z",
+            "last_commit": "2026-08-15T15:13:50Z",
             "owner": "karimhabush",
             "repo": "cyberowl",
             "stars": 262
@@ -1171,7 +1171,7 @@
             "last_commit": "2026-08-10T22:41:39Z",
             "owner": "yezz123",
             "repo": "ormdantic",
-            "stars": 151
+            "stars": 152
           }
         },
         {
@@ -1351,7 +1351,7 @@
             "last_commit": "2021-05-10T03:29:44Z",
             "owner": "smakosh",
             "repo": "unnamed-css-framework",
-            "stars": 257
+            "stars": 256
           }
         },
         {
@@ -1747,7 +1747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T06:28:58.310Z",
+    "last_updated": "2026-08-16T06:31:08.055Z",
     "original_repository": "geeksblabla/awesome-morocco",
     "original_repository_sha": "9d66e3ab4f3d57b6ae7ab04f4c2b0552f271b4ff",
     "enhanced_repository": "enhansome/enhansome-morocco",
