@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T14:46:28Z",
+            "last_commit": "2026-08-16T14:13:15Z",
             "owner": "redux-saga",
             "repo": "redux-saga",
-            "stars": 22426
+            "stars": 22425
           }
         },
         {
@@ -1087,7 +1087,7 @@
             "last_commit": "2026-08-01T03:13:05Z",
             "owner": "kennethreitz",
             "repo": "responder",
-            "stars": 3622
+            "stars": 3621
           }
         },
         {
@@ -1098,7 +1098,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T22:27:19Z",
+            "last_commit": "2026-08-17T04:51:53Z",
             "owner": "yezz123",
             "repo": "authx",
             "stars": 1198
@@ -1112,7 +1112,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T15:13:50Z",
+            "last_commit": "2026-08-16T15:15:18Z",
             "owner": "karimhabush",
             "repo": "cyberowl",
             "stars": 262
@@ -1747,7 +1747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T06:31:08.055Z",
+    "last_updated": "2026-08-17T06:42:54.189Z",
     "original_repository": "geeksblabla/awesome-morocco",
     "original_repository_sha": "9d66e3ab4f3d57b6ae7ab04f4c2b0552f271b4ff",
     "enhanced_repository": "enhansome/enhansome-morocco",
