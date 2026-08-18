@@ -19,7 +19,7 @@
             "last_commit": "2026-08-16T14:13:15Z",
             "owner": "redux-saga",
             "repo": "redux-saga",
-            "stars": 22425
+            "stars": 22426
           }
         },
         {
@@ -1098,7 +1098,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T04:51:53Z",
+            "last_commit": "2026-08-17T22:53:19Z",
             "owner": "yezz123",
             "repo": "authx",
             "stars": 1198
@@ -1112,7 +1112,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T15:15:18Z",
+            "last_commit": "2026-08-17T15:18:59Z",
             "owner": "karimhabush",
             "repo": "cyberowl",
             "stars": 262
@@ -1168,7 +1168,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T22:41:39Z",
+            "last_commit": "2026-08-17T23:05:28Z",
             "owner": "yezz123",
             "repo": "ormdantic",
             "stars": 152
@@ -1747,7 +1747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T06:42:54.189Z",
+    "last_updated": "2026-08-18T06:34:31.410Z",
     "original_repository": "geeksblabla/awesome-morocco",
     "original_repository_sha": "9d66e3ab4f3d57b6ae7ab04f4c2b0552f271b4ff",
     "enhanced_repository": "enhansome/enhansome-morocco",
