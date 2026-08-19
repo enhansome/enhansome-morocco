@@ -19,7 +19,7 @@
             "last_commit": "2026-08-16T14:13:15Z",
             "owner": "redux-saga",
             "repo": "redux-saga",
-            "stars": 22426
+            "stars": 22425
           }
         },
         {
@@ -1112,7 +1112,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T15:18:59Z",
+            "last_commit": "2026-08-18T15:24:25Z",
             "owner": "karimhabush",
             "repo": "cyberowl",
             "stars": 262
@@ -1747,7 +1747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T06:34:31.410Z",
+    "last_updated": "2026-08-19T06:35:13.362Z",
     "original_repository": "geeksblabla/awesome-morocco",
     "original_repository_sha": "9d66e3ab4f3d57b6ae7ab04f4c2b0552f271b4ff",
     "enhanced_repository": "enhansome/enhansome-morocco",
