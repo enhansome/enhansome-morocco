@@ -2,1753 +2,1878 @@
   "items": [
     {
       "description": "New List: https://awesome-morocco.dev/open-source",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Redux-saga",
+              "description": "An alternative side effect model for Redux apps by @yelouafi",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47071941,
+                "language": "JavaScript",
+                "last_commit": "2026-08-16T14:13:15Z",
+                "owner": "redux-saga",
+                "repo": "redux-saga",
+                "stars": 22425
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reactjs-popup",
+              "description": "A react popup component by @yjose",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114546060,
+                "language": "TypeScript",
+                "last_commit": "2024-07-22T20:20:58Z",
+                "owner": "yjose",
+                "repo": "reactjs-popup",
+                "stars": 1806
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gatsby-portfolio-dev",
+              "description": "Gatsby Portfolio theme & starter for developers by @smakosh",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163315057,
+                "language": "JavaScript",
+                "last_commit": "2025-01-29T16:45:34Z",
+                "owner": "smakosh",
+                "repo": "gatsby-portfolio-dev",
+                "stars": 827
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eureca.io",
+              "description": "a nodejs bidirectional RPC that can use WebSocket, WebRTC or XHR fallback as transport layers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10534428,
+                "language": "JavaScript",
+                "last_commit": "2020-06-18T13:58:41Z",
+                "owner": "Ezelia",
+                "repo": "eureca.io",
+                "stars": 342
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue3 infinite loading",
+              "description": "An infinite scroll component compatible with vue.js 3 and vite, to help you implement an infinite scroll list more easily. By @oumoussa98",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 412203544,
+                "language": "Vue",
+                "last_commit": "2024-08-26T23:50:40Z",
+                "owner": "oumoussa98",
+                "repo": "vue3-infinite-loading",
+                "stars": 194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cmi-node.js",
+              "description": "Npm package to communicate with the CMI payment plateform in Morocco. by @aitmiloud",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 684164834,
+                "language": "TypeScript",
+                "last_commit": "2024-04-28T11:03:54Z",
+                "owner": "aitmiloud",
+                "repo": "cmi-node",
+                "stars": 126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "v-odometer",
+              "description": "Vue.js component to smoothly transition numbers with ease. by @jefferyhus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111607516,
+                "language": "JavaScript",
+                "last_commit": "2024-06-11T08:50:22Z",
+                "owner": "JefferyHus",
+                "repo": "v-odometer",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "es6-crawler-detect",
+              "description": "ES6 module to help you detected and block bots, crawlers and spiders. by @jefferyhus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109014856,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T10:49:06Z",
+                "owner": "JefferyHus",
+                "repo": "es6-crawler-detect",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TxtAnime.js",
+              "description": "It is a JavaScript library, which contains many beautiful and free text effects. by @mohamedfrindi",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 436009095,
+                "language": "JavaScript",
+                "last_commit": "2024-02-07T17:37:48Z",
+                "owner": "mohamedfrindi",
+                "repo": "TxtAnime.js",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FireAdmin",
+              "description": "A minimalistic headless CMS around Angular & Firebase. by @AXeL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249248382,
+                "language": "TypeScript",
+                "last_commit": "2023-03-03T11:46:41Z",
+                "owner": "FirebaseGoodies",
+                "repo": "FireAdmin",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-flex-ready",
+              "description": "Flex grid system by @smakosh",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194082914,
+                "language": "TypeScript",
+                "last_commit": "2022-04-03T15:00:20Z",
+                "owner": "smakosh",
+                "repo": "react-flex-ready",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ngx-darija",
+              "description": "Angular in Darija Live Coding Series official Application by the Moroccan Angular Community.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 323087122,
+                "language": "TypeScript",
+                "last_commit": "2023-11-25T21:04:06Z",
+                "owner": "ngMorocco",
+                "repo": "ngx-darija",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CRA boilerplate",
+              "description": "A CRA boilerplate for large projects in JavaScript and TypeScript. By @smakosh",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 268765458,
+                "language": "TypeScript",
+                "last_commit": "2022-03-30T14:35:28Z",
+                "owner": "smakosh",
+                "repo": "CRA-boilerplate",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A Gatsby i18n starter",
+              "description": "A Gatsby starter with i18n configured using and Context API. By @smakosh",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151786929,
+                "language": "JavaScript",
+                "last_commit": "2021-07-01T00:46:26Z",
+                "owner": "smakosh",
+                "repo": "gatsby-starter-i18n",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MySQL_WhatsApp",
+              "description": "A minimal code allow us to run MySQL queries in your device from Whatsapp. by @Aziz403",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 429759448,
+                "language": "JavaScript",
+                "last_commit": "2021-11-19T17:02:54Z",
+                "owner": "Aziz403",
+                "repo": "MySQL_WhatsApp",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Salat",
+              "description": "A small web app to get prayers time in cities of Morocco. By @kafiil",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176025399,
+                "language": "TypeScript",
+                "last_commit": "2026-02-19T21:32:21Z",
+                "owner": "kafiln",
+                "repo": "salat",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Web-merge",
+              "description": "Declarative client-side web fragments merger for micro-frontend architectures. by @soub4i",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 295194372,
+                "language": "JavaScript",
+                "last_commit": "2022-02-03T02:13:39Z",
+                "owner": "soub4i",
+                "repo": "web-merge",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SeuleJs",
+              "description": "A progressive, incrementally-adoptable JavaScript framework for building UI on the web By @ElMehdiLebbar",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192699834,
+                "language": "JavaScript",
+                "last_commit": "2021-10-31T08:01:10Z",
+                "owner": "ElMehdiLebbar",
+                "repo": "SeuleJs",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vuejs Suglify",
+              "description": "A Vue component that slugify your v-model inputs. By @simoebenhida",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107247085,
+                "language": "Vue",
+                "last_commit": "2018-02-11T13:51:10Z",
+                "owner": "simoebenhida",
+                "repo": "vuejs-suglify",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Salat-api",
+              "description": "A simple public rest api to get the prayers times for cities in Morocco based on the official data form the Moroccan Ministry. By @kafiil",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 187730466,
+                "language": "TypeScript",
+                "last_commit": "2024-10-20T00:29:50Z",
+                "owner": "kafiln",
+                "repo": "salat-api",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-dropify",
+              "description": "Dropify build for vuejs framework. by @khofaai",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139869704,
+                "language": "Vue",
+                "last_commit": "2022-09-16T05:40:16Z",
+                "owner": "khofaai",
+                "repo": "vue-dropify",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eo-translatorjs",
+              "description": "Lightweight translation library for the web. by @EOussama",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 145248037,
+                "language": "JavaScript",
+                "last_commit": "2026-06-12T15:37:20Z",
+                "owner": "eoussama",
+                "repo": "eo-translatorjs",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Before-Effect-Slider",
+              "description": "A fully customizable before and after comparison plugin in pure JavaScript. by @aminejafur",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271624092,
+                "language": "JavaScript",
+                "last_commit": "2020-06-25T12:11:53Z",
+                "owner": "aminejafur",
+                "repo": "before-effect-slider.js",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mushaf.ma",
+              "description": "Mushaf Warsh rasm Muhammadi and warsh madina version expo react native. By @BrahimBIDI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 351201376,
+                "language": "TypeScript",
+                "last_commit": "2026-07-12T20:36:41Z",
+                "owner": "Zizwar",
+                "repo": "mushaf-mauri",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deno-Trading-Bot",
+              "description": "Technical Strategies and Indicators for Trading Crypto By @BrahimBIDI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372310799,
+                "language": "JavaScript",
+                "last_commit": "2023-02-15T01:05:27Z",
+                "owner": "Zizwar",
+                "repo": "deno-trading-bot",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vuejs Tags",
+              "description": "A Flexible Vue.js 2 input Tag component where you can edit wathever you like related to HTML/CSS. By @simoebenhida",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122553031,
+                "language": "Vue",
+                "last_commit": "2022-12-07T01:16:03Z",
+                "owner": "simoebenhida",
+                "repo": "vue-tags",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HIBP JS",
+              "description": "Library to check your password against haveibeenpwned",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137750133,
+                "language": "JavaScript",
+                "last_commit": "2019-02-21T14:08:39Z",
+                "owner": "mehdibo",
+                "repo": "hibp-js",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Firestore Manager",
+              "description": "Manage your firestore databases in ease. by @AXeL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 223022222,
+                "language": "TypeScript",
+                "last_commit": "2023-05-07T08:20:31Z",
+                "owner": "FirebaseGoodies",
+                "repo": "firestore-manager",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Temme",
+              "description": "JSON mapped DOM manipulation. by @EOussama",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 133183505,
+                "language": "TypeScript",
+                "last_commit": "2026-06-13T12:11:56Z",
+                "owner": "eoussama",
+                "repo": "temme.js",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nixify",
+              "description": "🌴 A tiny human-friendly JavaScript HTTP client library based on the browser with no dependencies. by @FxOmar",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 349475863,
+                "language": "TypeScript",
+                "last_commit": "2024-01-12T19:13:33Z",
+                "owner": "FxOmar",
+                "repo": "Nixify",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typewriterjs",
+              "description": "Typewriting animator. by @EOussama",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 131657987,
+                "language": "TypeScript",
+                "last_commit": "2026-06-24T23:31:17Z",
+                "owner": "eoussama",
+                "repo": "eo-typewriterjs",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kh-popover",
+              "description": "Popover build for vuejs framework. by @khofaai",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138871951,
+                "language": "Vue",
+                "last_commit": "2019-02-25T13:39:31Z",
+                "owner": "khofaai",
+                "repo": "kh-popover",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Corona-wash-reminder",
+              "description": "A small A mobile app to remind you to wash your hands. By @akiyamaSM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247500188,
+                "language": "TypeScript",
+                "last_commit": "2023-01-07T16:09:33Z",
+                "owner": "akiyamaSM",
+                "repo": "corona-wash-reminder",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Graf-it",
+              "description": "Generate a mock GraphQL API without writing a single line of code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106752690,
+                "language": "JavaScript",
+                "last_commit": "2022-12-10T20:30:10Z",
+                "owner": "akramsaouri",
+                "repo": "graf-it",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xorq",
+              "description": "A minimalistic xhr javascript library. by @ezzarghili",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173008978,
+                "language": "JavaScript",
+                "last_commit": "2019-03-06T22:30:28Z",
+                "owner": "ezzarghili",
+                "repo": "xorq",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JPT Proomy",
+              "description": "Roomy Prompt - ChatGPT Rooms. By @BrahimBIDI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625106483,
+                "language": "TypeScript",
+                "last_commit": "2025-08-21T22:56:20Z",
+                "owner": "Zizwar",
+                "repo": "PRoomy",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-basic-items-pagination",
+              "description": "A react component helper to render set of items. by @elmehdibm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186278716,
+                "language": "JavaScript",
+                "last_commit": "2023-01-06T17:57:10Z",
+                "owner": "elmehdibm",
+                "repo": "react-basic-items-pagination",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ryo.js",
+              "description": "JS fullstack framework, blazly fast, to create API, WS, preact components... by marvelbark2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 566766217,
+                "language": "TypeScript",
+                "last_commit": "2026-01-26T02:53:15Z",
+                "owner": "marvelbark2",
+                "repo": "ryo-js",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Native-Window",
+              "description": "Take your modals to next level using a powerful & fully customizable window modal plugin in pure JavaScript. by @aminejafur",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 273024557,
+                "language": "JavaScript",
+                "last_commit": "2020-06-25T12:26:28Z",
+                "owner": "aminejafur",
+                "repo": "native-window.js",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "next-salat",
+              "description": "A simple react app to get prayer times in Morocco. by @ayoubsousali",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 540156967,
+                "language": "JavaScript",
+                "last_commit": "2025-12-21T17:34:14Z",
+                "owner": "ayoubsousali",
+                "repo": "next-salat",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jquery-imgedit",
+              "description": "Small jQuery plugin to edit an inline image",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118483550,
+                "language": "JavaScript",
+                "last_commit": "2018-01-22T16:40:59Z",
+                "owner": "mehdibo",
+                "repo": "jquery-imgedit",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pure dots and boxes",
+              "description": "A pure HTML, CSS and JS Dots and Boxes game in Morocco 90's schools style. by @aminejafur",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274920408,
+                "language": "JavaScript",
+                "last_commit": "2020-06-25T14:08:05Z",
+                "owner": "aminejafur",
+                "repo": "puredotsandboxes",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DolarJs",
+              "description": "A minimal and lightweight library By @mboussaid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 427162793,
+                "language": "JavaScript",
+                "last_commit": "2021-11-11T22:45:02Z",
+                "owner": "mboussaid",
+                "repo": "dolar.js",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pastify",
+              "description": "Quickly create Spotify playlists.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232026683,
+                "language": "JavaScript",
+                "last_commit": "2024-11-18T14:14:29Z",
+                "owner": "akramsaouri",
+                "repo": "pastify",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Data Structures",
+              "description": "Some Data Structures implementation using JavaScript. by @Riad-ENNAIM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306325092,
+                "language": "JavaScript",
+                "last_commit": "2020-12-05T16:38:52Z",
+                "owner": "Riad-ENNAIM",
+                "repo": "data-structures",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JSS",
+              "description": "A minimal library that allows you to change the style of elements By @mboussaid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 337704371,
+                "language": "JavaScript",
+                "last_commit": "2021-02-10T11:37:21Z",
+                "owner": "mboussaid",
+                "repo": "JSS",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VerifyJS",
+              "description": "A minimal library that allows to add verification to your inputs By @mboussaid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 337706208,
+                "language": "JavaScript",
+                "last_commit": "2021-02-10T11:41:42Z",
+                "owner": "mboussaid",
+                "repo": "VerifyJS",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ckeditor-uploadfile",
+              "description": "CKEditor plugin to upload files",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125754296,
+                "language": "JavaScript",
+                "last_commit": "2018-03-18T18:40:57Z",
+                "owner": "mehdibo",
+                "repo": "ckeditor-uploadfile",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "android-about-page",
+              "description": "Create an awesome About Page for your Android App in 2 minutes. by @medyo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56727413,
+                "language": "Java",
+                "last_commit": "2024-04-05T17:01:17Z",
+                "owner": "medyo",
+                "repo": "android-about-page",
+                "stars": 2029
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fancybuttons",
+              "description": "Icons, Borders, Radius ... for Android buttons. by @medyo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21591226,
+                "language": "Java",
+                "last_commit": "2021-02-20T18:36:47Z",
+                "owner": "medyo",
+                "repo": "Fancybuttons",
+                "stars": 1754
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LaravelInstaller",
+              "description": "A web installer for Laravel. by @rashidlaasri",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 38710769,
+                "language": "PHP",
+                "last_commit": "2023-11-28T20:00:49Z",
+                "owner": "rashidlaasri",
+                "repo": "LaravelInstaller",
+                "stars": 1937
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MyStockMaster",
+              "description": "Laravel-based inventory management system that offers an easy and straightforward way to keep track of inventory, sales, purchases, and more. It features a user-friendly dashboard, intuitive reports, made by @zakarialabib",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 545752823,
+                "language": "PHP",
+                "last_commit": "2026-08-15T22:48:21Z",
+                "owner": "Zakarialabib",
+                "repo": "myStockMaster",
+                "stars": 438
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHPFlasher",
+              "description": "A powerful and flexible flash notification system for PHP With Symfony and Laravel implementations. by @yoeunes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 317664140,
+                "language": "PHP",
+                "last_commit": "2026-04-13T08:48:07Z",
+                "owner": "php-flasher",
+                "repo": "php-flasher",
+                "stars": 376
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "larapoll",
+              "description": "A Laravel package to manage your polls. by @akiyamaSM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79646855,
+                "language": "PHP",
+                "last_commit": "2022-10-07T10:37:59Z",
+                "owner": "akiyamaSM",
+                "repo": "larapoll",
+                "stars": 254
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Xstate",
+              "description": "A state machine library to play with any complex behavior of your PHP objects (inspired from xstate.js). by @mouadziani",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 484566693,
+                "language": "PHP",
+                "last_commit": "2026-01-05T21:02:17Z",
+                "owner": "mouadziani",
+                "repo": "xstate",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Admin User Chatting",
+              "description": "A Live chat between users and admins made with Livewire.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 316227490,
+                "language": "PHP",
+                "last_commit": "2021-11-10T19:14:47Z",
+                "owner": "hbakouane",
+                "repo": "admin-user-chatting",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "laravel-model-trackable",
+              "description": "A laravel package that allows you to track and log nested changes applied on your models. by @mouadziani",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 314646287,
+                "language": "PHP",
+                "last_commit": "2022-07-31T03:51:16Z",
+                "owner": "mouadziani",
+                "repo": "laravel-model-trackable",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "laravel-query-inspector",
+              "description": "The missing laravel helper that allows you to inspect your eloquent queries with it's bind parameters. by @mouadziani",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 386064798,
+                "language": "PHP",
+                "last_commit": "2022-07-31T03:50:30Z",
+                "owner": "mouadziani",
+                "repo": "laravel-query-inspector",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chibi",
+              "description": "A mini PHP framework. by @akiyamaSM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106802940,
+                "language": "PHP",
+                "last_commit": "2026-08-04T10:20:58Z",
+                "owner": "akiyamaSM",
+                "repo": "chibi",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Laravel-merchant",
+              "description": "A Laravel package for integrating the BnpParibas Mercanet payment gateway. by @mouadziani",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 407585074,
+                "language": "PHP",
+                "last_commit": "2024-06-05T14:53:27Z",
+                "owner": "mouadziani",
+                "repo": "laravel-mercanet",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Laravel, Vue & Admin LTE Boilerplate",
+              "description": "Laravel, Vue and Admin LTE integrated in one project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 373880691,
+                "language": "Less",
+                "last_commit": "2021-06-05T17:58:52Z",
+                "owner": "hbakouane",
+                "repo": "adminlte-laravel-vue",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Larabye",
+              "description": "A mini PHP starter / framework. by @mouadziani",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 165935392,
+                "language": "PHP",
+                "last_commit": "2021-03-08T23:49:50Z",
+                "owner": "mouadziani",
+                "repo": "Larabye",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Codeigniter-recaptcha",
+              "description": "A CodeIgniter library to use Google's recaptcha",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97093089,
+                "language": "PHP",
+                "last_commit": "2022-06-15T13:07:06Z",
+                "owner": "mehdibo",
+                "repo": "Codeigniter-recaptcha",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Codeigniter-blockchain",
+              "description": "A Codeigniter library to use the Blockchain Wallet AP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95773012,
+                "language": "PHP",
+                "last_commit": "2018-08-18T23:29:48Z",
+                "owner": "mehdibo",
+                "repo": "Codeigniter-blockchain",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Codeigniter-sslhook",
+              "description": "A tool to set appropriate headers/redirection for SSL websites",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 129001988,
+                "language": "PHP",
+                "last_commit": "2021-12-06T11:45:07Z",
+                "owner": "mehdibo",
+                "repo": "Codeigniter-SSLHook",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ux-datatable",
+              "description": "A Datatable.net integration for Symfony. by @Aziz403",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574507101,
+                "language": "PHP",
+                "last_commit": "2023-03-31T15:31:36Z",
+                "owner": "Aziz403",
+                "repo": "ux-datatable",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kickstart",
+              "description": "A very opinionated Laravel SPA boilerplate using Laravel 7.x / Typescript / Vue / TailwindCSS + Pest & Cypress for testing by @Stormix",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 256581239,
+                "language": "PHP",
+                "last_commit": "2021-10-06T17:20:54Z",
+                "owner": "Stormix",
+                "repo": "kickstart",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Laravel Log Reader",
+              "description": "An UI for laravel logs. By @simoebenhida",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175110511,
+                "language": "PHP",
+                "last_commit": "2019-06-16T19:31:01Z",
+                "owner": "ci-on",
+                "repo": "laravel-log-reader",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Laravel Starter",
+              "description": "A laravel start that has all the stuff that i need when creating a fresh laravel app. By @simoebenhida",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139597733,
+                "language": "PHP",
+                "last_commit": "2018-10-11T17:56:16Z",
+                "owner": "simoebenhida",
+                "repo": "laravel-starter",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "php-eyed3",
+              "description": "A PHP wrapper for reading and updating ID3 meta data of (e.g.) MP3 files using eyeD3. By @Stormix",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 127527549,
+                "language": "PHP",
+                "last_commit": "2018-05-26T16:47:51Z",
+                "owner": "Stormix",
+                "repo": "php-eyed3",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHPForms",
+              "description": "A set of of tools to help you create forms and export data as fast as possible",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140827166,
+                "language": "PHP",
+                "last_commit": "2019-01-05T17:43:53Z",
+                "owner": "mehdibo",
+                "repo": "PHPForms",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LbtcApi",
+              "description": "A Laravel Package for localbitcoins Api",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272962875,
+                "language": "PHP",
+                "last_commit": "2021-06-23T19:59:02Z",
+                "owner": "marvelbark2",
+                "repo": "lbtcapi",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SlackBatch",
+              "description": "A CLI tool made with PHP to send Slack invitations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151251729,
+                "language": "PHP",
+                "last_commit": "2019-10-09T10:59:38Z",
+                "owner": "mehdibo",
+                "repo": "SlackBatch",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bulksms-notifier",
+              "description": "A Symfony Notifier bridge for bulksms.ma",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262756799,
+                "language": "PHP",
+                "last_commit": "2024-11-13T16:36:40Z",
+                "owner": "mehdibo",
+                "repo": "bulksms-notifier",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vinala",
+              "description": "An elegant and swift mini PHP Framework For Webmasters. by @youssefhad",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71662570,
+                "language": "PHP",
+                "last_commit": "2021-03-19T08:34:42Z",
+                "owner": "vinala",
+                "repo": "vinala",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Responder",
+              "description": "A familiar HTTP Service Framework for Python by @taoufik07",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152237787,
+                "language": "Python",
+                "last_commit": "2026-08-01T03:13:05Z",
+                "owner": "kennethreitz",
+                "repo": "responder",
+                "stars": 3621
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AuthX",
+              "description": "A customizable Authentications and Oauth2 management for FastAPI by @yezz123",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 399171157,
+                "language": "Python",
+                "last_commit": "2026-08-17T22:53:19Z",
+                "owner": "yezz123",
+                "repo": "authx",
+                "stars": 1198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cyberowl",
+              "description": "A daily updated summary of security incidents being reported from different sources by @karimhabush",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 459628681,
+                "language": "Python",
+                "last_commit": "2026-08-18T15:24:25Z",
+                "owner": "karimhabush",
+                "repo": "cyberowl",
+                "stars": 262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DogeAPI",
+              "description": "An API with high performance built with FastAPI & SQLAlchemy, help to improve connection with Back-end by @yezz123",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 366633671,
+                "language": "Python",
+                "last_commit": "2026-08-01T00:29:16Z",
+                "owner": "yezz123",
+                "repo": "ai-template",
+                "stars": 257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fastapi-lazy",
+              "description": "A package with some utilities that you use in various projects made in FastAPI by @yezz123",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 412096693,
+                "language": "Python",
+                "last_commit": "2026-07-24T08:25:14Z",
+                "owner": "yezz123",
+                "repo": "fastango",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dr_scaffold",
+              "description": "scaffold django rest apis like a champion by @Abdenasser",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 398059974,
+                "language": "Python",
+                "last_commit": "2023-10-02T23:49:26Z",
+                "owner": "Abdenasser",
+                "repo": "dr_scaffold",
+                "stars": 166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ORMDantic",
+              "description": "Asynchronous ORM that uses pydantic models to represent database tables by @yezz123",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 517756908,
+                "language": "Python",
+                "last_commit": "2026-08-17T23:05:28Z",
+                "owner": "yezz123",
+                "repo": "ormdantic",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FRDP",
+              "description": "Boilerplate code for quick docker implementation of REST API with JWT Authentication using FastAPI, PostgreSQL and PgAdmin by @yezz123",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 391047438,
+                "language": "Python",
+                "last_commit": "2024-05-27T22:47:15Z",
+                "owner": "yezz123",
+                "repo": "FRDP",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "My-Business",
+              "description": "A business management tool featuring accounts, invoices, partners, projects, and server by @yezz123",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286632041,
+                "language": "Python",
+                "last_commit": "2024-04-29T23:21:52Z",
+                "owner": "yezz123",
+                "repo": "My-Business",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ping360_sonar",
+              "description": "ROS package for Blue Robotics Ping360 Sonar by @Stormix",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221683553,
+                "language": "C++",
+                "last_commit": "2026-07-02T10:07:46Z",
+                "owner": "CentraleNantesRobotics",
+                "repo": "ping360_sonar",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Athena",
+              "description": "Test your Security Skills, and Clean Code Development as a Pythonist, Hacker & Warrior by @yezz123",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 304455637,
+                "language": "Python",
+                "last_commit": "2025-01-30T13:36:20Z",
+                "owner": "yezz123",
+                "repo": "Athena",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apollo",
+              "description": "A basic Application with multiple functionalities built with FastAPI aim to help Users Buy New Items Provided using PaypalAPI by @yezz123",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 385766999,
+                "language": "Python",
+                "last_commit": "2023-07-13T06:18:52Z",
+                "owner": "Yezz123-Archive",
+                "repo": "Apollo",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sourcerer-io-scrapper",
+              "description": "Because they don't have an API. https://sourcerer.io/ by @Stormix",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 273107485,
+                "language": "Python",
+                "last_commit": "2023-05-01T21:24:45Z",
+                "owner": "Stormix",
+                "repo": "sourcerer-io-scrapper",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "goph",
+              "description": "Native SSH client to execute commands, upload/download files. by @melbahja",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246402552,
+                "language": "Go",
+                "last_commit": "2026-07-19T20:38:31Z",
+                "owner": "melbahja",
+                "repo": "goph",
+                "stars": 2023
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "recaptcha-go",
+              "description": "Validate Google reCAPTCHA v2 & v3 form submission package in golang. by @ezzarghili",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115212023,
+                "language": "Go",
+                "last_commit": "2021-02-14T16:35:43Z",
+                "owner": "ezzarghili",
+                "repo": "recaptcha-go",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "comet",
+              "description": "A demo interpreted programming language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268861958,
+                "language": "Go",
+                "last_commit": "2021-04-18T15:11:30Z",
+                "owner": "chermehdi",
+                "repo": "comet",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ctl",
+              "description": "A command line tool to run all systemd commands in one command . by @melbahja",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242246909,
+                "language": "Go",
+                "last_commit": "2020-02-27T14:23:49Z",
+                "owner": "melbahja",
+                "repo": "ctl",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anusic-API",
+              "description": "Anime themes API. by @EOussama",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275595722,
+                "language": "Go",
+                "last_commit": "2026-07-02T02:03:15Z",
+                "owner": "eoussama",
+                "repo": "anusic-api",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Unnamed CSS",
+              "description": "Micro colorful CSS framework by @smakosh",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102506748,
+                "language": "CSS",
+                "last_commit": "2021-05-10T03:29:44Z",
+                "owner": "smakosh",
+                "repo": "unnamed-css-framework",
+                "stars": 256
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tailwindcss Twitter Page",
+              "description": "A twitter profile made with tailwindcss. By @simoebenhida",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146304483,
+                "language": "HTML",
+                "last_commit": "2018-08-30T09:53:20Z",
+                "owner": "simoebenhida",
+                "repo": "tailwindcss-twitter-page",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tailwindcss Paypal Page",
+              "description": "A paypal page made with tailwindcss. By @simoebenhida",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169003316,
+                "language": "JavaScript",
+                "last_commit": "2019-02-03T22:58:40Z",
+                "owner": "simoebenhida",
+                "repo": "tailwindcss-paypal-page",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tailwindcss Starter",
+              "description": "A tailwindcss boilerplate. By @simoebenhida",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146215906,
+                "language": "JavaScript",
+                "last_commit": "2018-08-26T20:58:28Z",
+                "owner": "simoebenhida",
+                "repo": "tailwindcss-starter",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CSS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Corona-Shield",
+              "description": "An open sourced Corona Tracking Mobile Application with Back-end (something like wiqaytna) made using Flutter, PHP and JS. by @aminejafur",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263781084,
+                "language": "Dart",
+                "last_commit": "2020-05-18T16:28:22Z",
+                "owner": "aminejafur",
+                "repo": "corona-shield",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flutter Rocket",
+              "description": "Powerful package for state management & request. by M97chahboun",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 337238669,
+                "language": "Dart",
+                "last_commit": "2026-04-23T22:25:11Z",
+                "owner": "JahezAcademy",
+                "repo": "flutter_rocket",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Github Snitch",
+              "description": "package that helps you report bugs and issues on GitHub automatically. It can also be used to submit comments on existing issues. by M97chahboun",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 551081627,
+                "language": "Dart",
+                "last_commit": "2024-04-01T08:40:18Z",
+                "owner": "bixat",
+                "repo": "github_snitch",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rocket Timer",
+              "description": "Timer package. by M97chahboun",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 656249006,
+                "language": "Dart",
+                "last_commit": "2023-10-01T12:15:31Z",
+                "owner": "bixat",
+                "repo": "rocket_timer",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Flutter"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tracking-with-darkflow",
+              "description": "Real-time people Multitracker using YOLO v2 and deep_sort with tensorflow. by @bendidi",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98413813,
+                "language": "Python",
+                "last_commit": "2022-01-03T16:35:29Z",
+                "owner": "obendidi",
+                "repo": "Tracking-with-darkflow",
+                "stars": 522
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Polaris",
+              "description": "Face recognition system with Futuristic UI design by @XN3UR0N",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342714959,
+                "language": "Python",
+                "last_commit": "2021-05-20T01:01:07Z",
+                "owner": "ChibaniMohamed",
+                "repo": "Polaris",
+                "stars": 247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CNN age gender",
+              "description": "Age and Gender prediction using Keras by @XN3UR0N",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 319636318,
+                "language": "Python",
+                "last_commit": "2020-12-13T19:59:05Z",
+                "owner": "ChibaniMohamed",
+                "repo": "cnn_age_gender",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ODC-World-Cup-2022-Predictions",
+              "description": "Prediction of the winner of an international matches Prediction results are \"Win / Lose / Draw\" and Apply the model to predict the result of FIFA world cup 2022 by @Omaraitbenhaddi",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 539387412,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-11-19T21:44:59Z",
+                "owner": "Omaraitbenhaddi",
+                "repo": "ODC-World-Cup-2022-Predictions",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PoseNet-chrome-Dinosaur",
+              "description": "Play the famous Chrom Dinosaur game using your body! by @aminejafur",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290827876,
+                "language": "JavaScript",
+                "last_commit": "2020-08-28T00:15:40Z",
+                "owner": "aminejafur",
+                "repo": "PoseNet-chromeDinosaur",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "daktilo",
+              "description": "A Jekyll theme with a minimal design inspired by typewriters. by @kronik3r",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42090106,
+                "language": "CSS",
+                "last_commit": "2021-04-01T07:22:37Z",
+                "owner": "kronik3r",
+                "repo": "daktilo",
+                "stars": 299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GeeksBlabla",
+              "description": "GeeksBlala website source code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181582193,
+                "language": "Astro",
+                "last_commit": "2026-03-02T15:10:22Z",
+                "owner": "geeksblabla",
+                "repo": "geeksblabla.community",
+                "stars": 296
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vscode-big-sur-icons",
+              "description": "Icons for VSCode based on macOS Big Sur design.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274647881,
+                "language": null,
+                "last_commit": "2021-02-10T15:15:22Z",
+                "owner": "mohouyizme",
+                "repo": "vscode-big-sur-icons",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DevC Casa Hacktoberfest",
+              "description": "A repository to learn about open source code contributions flow.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 217165872,
+                "language": "JavaScript",
+                "last_commit": "2024-02-28T11:24:45Z",
+                "owner": "geeksblabla",
+                "repo": "devc-casa-hacktoberfest",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HIGH TO LOW",
+              "description": "Codes in C and their equivalence in MIPS Assembly. by @zakarialaoui10",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 378984068,
+                "language": "Assembly",
+                "last_commit": "2026-07-08T22:56:33Z",
+                "owner": "zakarialaoui10",
+                "repo": "mips-101",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libCplus",
+              "description": "Wonderful library with lots of useful functions, algorithms and data structures in C. by @BnademOverflow",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 347697416,
+                "language": "C",
+                "last_commit": "2021-07-15T14:17:38Z",
+                "owner": "BnademOverflow",
+                "repo": "libCplus",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZikoMatrix",
+              "description": "Create and manipule matrices of arbitrary size and data type in arduino and its alternatives. by @zakarialaoui10",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629027433,
+                "language": "C++",
+                "last_commit": "2026-08-05T22:22:38Z",
+                "owner": "zakarialaoui10",
+                "repo": "ZikoMatrix",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "coronapy-cli",
+              "description": "A command line tool in python to fetch worldwide data about COVID-19. by @MouadBH",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250658590,
+                "language": "Python",
+                "last_commit": "2022-12-08T10:56:35Z",
+                "owner": "MouadBH",
+                "repo": "coronapy-cli",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PowerMonitor",
+              "description": "A C++ library designed to measure the electrical characteristics of AC circuits, such as voltage, current, power, reactive power, and power factor, for Arduino and its alternatives. by @zakarialaoui10",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626485994,
+                "language": "C++",
+                "last_commit": "2026-06-17T22:20:13Z",
+                "owner": "zakarialaoui10",
+                "repo": "power-monitor",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GeeksBlabla",
+              "description": "GeeksBlala NuxtJS version",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185066194,
+                "language": "JavaScript",
+                "last_commit": "2023-01-03T21:19:55Z",
+                "owner": "akiyamaSM",
+                "repo": "geeksblabla",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Branch Timer",
+              "description": "Extension for track your work duration on every branch. by M97chahboun",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 605705194,
+                "language": "TypeScript",
+                "last_commit": "2024-04-20T22:52:15Z",
+                "owner": "bixat",
+                "repo": "vscode-branch-timer",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "power-my-vscode",
+              "description": "Make your VS Code great again! by @melbarch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 227445508,
+                "language": "JavaScript",
+                "last_commit": "2024-01-19T11:18:47Z",
+                "owner": "melbarch",
+                "repo": "power-my-vscode",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CSE",
+              "description": "R package for Casablanca Stock Exchange Data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 297733860,
+                "language": "HTML",
+                "last_commit": "2024-09-29T21:32:24Z",
+                "owner": "bilnash",
+                "repo": "CSE",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "phpslim-dev",
+              "description": "Docker image for PHP Slim framework Development",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179589925,
+                "language": "Dockerfile",
+                "last_commit": "2020-01-21T14:24:55Z",
+                "owner": "mehdibo",
+                "repo": "phpslim-dev",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
+        }
+      ],
       "title": "Open Source Projects"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Redux-saga",
-          "description": "An alternative side effect model for Redux apps by @yelouafi",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-16T14:13:15Z",
-            "owner": "redux-saga",
-            "repo": "redux-saga",
-            "stars": 22425
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "reactjs-popup",
-          "description": "A react popup component by @yjose",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-07-22T20:20:58Z",
-            "owner": "yjose",
-            "repo": "reactjs-popup",
-            "stars": 1806
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gatsby-portfolio-dev",
-          "description": "Gatsby Portfolio theme & starter for developers by @smakosh",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-01-29T16:45:34Z",
-            "owner": "smakosh",
-            "repo": "gatsby-portfolio-dev",
-            "stars": 827
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eureca.io",
-          "description": "a nodejs bidirectional RPC that can use WebSocket, WebRTC or XHR fallback as transport layers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-06-18T13:58:41Z",
-            "owner": "Ezelia",
-            "repo": "eureca.io",
-            "stars": 342
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue3 infinite loading",
-          "description": "An infinite scroll component compatible with vue.js 3 and vite, to help you implement an infinite scroll list more easily. By @oumoussa98",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2024-08-26T23:50:40Z",
-            "owner": "oumoussa98",
-            "repo": "vue3-infinite-loading",
-            "stars": 194
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cmi-node.js",
-          "description": "Npm package to communicate with the CMI payment plateform in Morocco. by @aitmiloud",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-04-28T11:03:54Z",
-            "owner": "aitmiloud",
-            "repo": "cmi-node",
-            "stars": 126
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "v-odometer",
-          "description": "Vue.js component to smoothly transition numbers with ease. by @jefferyhus",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-06-11T08:50:22Z",
-            "owner": "JefferyHus",
-            "repo": "v-odometer",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "es6-crawler-detect",
-          "description": "ES6 module to help you detected and block bots, crawlers and spiders. by @jefferyhus",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T10:49:06Z",
-            "owner": "JefferyHus",
-            "repo": "es6-crawler-detect",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TxtAnime.js",
-          "description": "It is a JavaScript library, which contains many beautiful and free text effects. by @mohamedfrindi",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-02-07T17:37:48Z",
-            "owner": "mohamedfrindi",
-            "repo": "TxtAnime.js",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FireAdmin",
-          "description": "A minimalistic headless CMS around Angular & Firebase. by @AXeL",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-03T11:46:41Z",
-            "owner": "FirebaseGoodies",
-            "repo": "FireAdmin",
-            "stars": 79
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-flex-ready",
-          "description": "Flex grid system by @smakosh",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-04-03T15:00:20Z",
-            "owner": "smakosh",
-            "repo": "react-flex-ready",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ngx-darija",
-          "description": "Angular in Darija Live Coding Series official Application by the Moroccan Angular Community.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-11-25T21:04:06Z",
-            "owner": "ngMorocco",
-            "repo": "ngx-darija",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CRA boilerplate",
-          "description": "A CRA boilerplate for large projects in JavaScript and TypeScript. By @smakosh",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2022-03-30T14:35:28Z",
-            "owner": "smakosh",
-            "repo": "CRA-boilerplate",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A Gatsby i18n starter",
-          "description": "A Gatsby starter with i18n configured using and Context API. By @smakosh",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-07-01T00:46:26Z",
-            "owner": "smakosh",
-            "repo": "gatsby-starter-i18n",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MySQL_WhatsApp",
-          "description": "A minimal code allow us to run MySQL queries in your device from Whatsapp. by @Aziz403",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-11-19T17:02:54Z",
-            "owner": "Aziz403",
-            "repo": "MySQL_WhatsApp",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Salat",
-          "description": "A small web app to get prayers time in cities of Morocco. By @kafiil",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-19T21:32:21Z",
-            "owner": "kafiln",
-            "repo": "salat",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Web-merge",
-          "description": "Declarative client-side web fragments merger for micro-frontend architectures. by @soub4i",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-02-03T02:13:39Z",
-            "owner": "soub4i",
-            "repo": "web-merge",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SeuleJs",
-          "description": "A progressive, incrementally-adoptable JavaScript framework for building UI on the web By @ElMehdiLebbar",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-10-31T08:01:10Z",
-            "owner": "ElMehdiLebbar",
-            "repo": "SeuleJs",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vuejs Suglify",
-          "description": "A Vue component that slugify your v-model inputs. By @simoebenhida",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2018-02-11T13:51:10Z",
-            "owner": "simoebenhida",
-            "repo": "vuejs-suglify",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Salat-api",
-          "description": "A simple public rest api to get the prayers times for cities in Morocco based on the official data form the Moroccan Ministry. By @kafiil",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-10-20T00:29:50Z",
-            "owner": "kafiln",
-            "repo": "salat-api",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-dropify",
-          "description": "Dropify build for vuejs framework. by @khofaai",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2022-09-16T05:40:16Z",
-            "owner": "khofaai",
-            "repo": "vue-dropify",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eo-translatorjs",
-          "description": "Lightweight translation library for the web. by @EOussama",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2026-06-12T15:37:20Z",
-            "owner": "eoussama",
-            "repo": "eo-translatorjs",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Before-Effect-Slider",
-          "description": "A fully customizable before and after comparison plugin in pure JavaScript. by @aminejafur",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-06-25T12:11:53Z",
-            "owner": "aminejafur",
-            "repo": "before-effect-slider.js",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mushaf.ma",
-          "description": "Mushaf Warsh rasm Muhammadi and warsh madina version expo react native. By @BrahimBIDI",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-12T20:36:41Z",
-            "owner": "Zizwar",
-            "repo": "mushaf-mauri",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deno-Trading-Bot",
-          "description": "Technical Strategies and Indicators for Trading Crypto By @BrahimBIDI",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-02-15T01:05:27Z",
-            "owner": "Zizwar",
-            "repo": "deno-trading-bot",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vuejs Tags",
-          "description": "A Flexible Vue.js 2 input Tag component where you can edit wathever you like related to HTML/CSS. By @simoebenhida",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2022-12-07T01:16:03Z",
-            "owner": "simoebenhida",
-            "repo": "vue-tags",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HIBP JS",
-          "description": "Library to check your password against haveibeenpwned",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-02-21T14:08:39Z",
-            "owner": "mehdibo",
-            "repo": "hibp-js",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Firestore Manager",
-          "description": "Manage your firestore databases in ease. by @AXeL",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-05-07T08:20:31Z",
-            "owner": "FirebaseGoodies",
-            "repo": "firestore-manager",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Temme",
-          "description": "JSON mapped DOM manipulation. by @EOussama",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2026-06-13T12:11:56Z",
-            "owner": "eoussama",
-            "repo": "temme.js",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nixify",
-          "description": "🌴 A tiny human-friendly JavaScript HTTP client library based on the browser with no dependencies. by @FxOmar",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-01-12T19:13:33Z",
-            "owner": "FxOmar",
-            "repo": "Nixify",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typewriterjs",
-          "description": "Typewriting animator. by @EOussama",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2026-06-24T23:31:17Z",
-            "owner": "eoussama",
-            "repo": "eo-typewriterjs",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kh-popover",
-          "description": "Popover build for vuejs framework. by @khofaai",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2019-02-25T13:39:31Z",
-            "owner": "khofaai",
-            "repo": "kh-popover",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Corona-wash-reminder",
-          "description": "A small A mobile app to remind you to wash your hands. By @akiyamaSM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-07T16:09:33Z",
-            "owner": "akiyamaSM",
-            "repo": "corona-wash-reminder",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Graf-it",
-          "description": "Generate a mock GraphQL API without writing a single line of code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-10T20:30:10Z",
-            "owner": "akramsaouri",
-            "repo": "graf-it",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xorq",
-          "description": "A minimalistic xhr javascript library. by @ezzarghili",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-03-06T22:30:28Z",
-            "owner": "ezzarghili",
-            "repo": "xorq",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JPT Proomy",
-          "description": "Roomy Prompt - ChatGPT Rooms. By @BrahimBIDI",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-08-21T22:56:20Z",
-            "owner": "Zizwar",
-            "repo": "PRoomy",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-basic-items-pagination",
-          "description": "A react component helper to render set of items. by @elmehdibm",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-06T17:57:10Z",
-            "owner": "elmehdibm",
-            "repo": "react-basic-items-pagination",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ryo.js",
-          "description": "JS fullstack framework, blazly fast, to create API, WS, preact components... by marvelbark2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-26T02:53:15Z",
-            "owner": "marvelbark2",
-            "repo": "ryo-js",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Native-Window",
-          "description": "Take your modals to next level using a powerful & fully customizable window modal plugin in pure JavaScript. by @aminejafur",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-06-25T12:26:28Z",
-            "owner": "aminejafur",
-            "repo": "native-window.js",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "next-salat",
-          "description": "A simple react app to get prayer times in Morocco. by @ayoubsousali",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-12-21T17:34:14Z",
-            "owner": "ayoubsousali",
-            "repo": "next-salat",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jquery-imgedit",
-          "description": "Small jQuery plugin to edit an inline image",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-01-22T16:40:59Z",
-            "owner": "mehdibo",
-            "repo": "jquery-imgedit",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pure dots and boxes",
-          "description": "A pure HTML, CSS and JS Dots and Boxes game in Morocco 90's schools style. by @aminejafur",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-06-25T14:08:05Z",
-            "owner": "aminejafur",
-            "repo": "puredotsandboxes",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DolarJs",
-          "description": "A minimal and lightweight library By @mboussaid",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-11-11T22:45:02Z",
-            "owner": "mboussaid",
-            "repo": "dolar.js",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pastify",
-          "description": "Quickly create Spotify playlists.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-11-18T14:14:29Z",
-            "owner": "akramsaouri",
-            "repo": "pastify",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Data Structures",
-          "description": "Some Data Structures implementation using JavaScript. by @Riad-ENNAIM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-12-05T16:38:52Z",
-            "owner": "Riad-ENNAIM",
-            "repo": "data-structures",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JSS",
-          "description": "A minimal library that allows you to change the style of elements By @mboussaid",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-02-10T11:37:21Z",
-            "owner": "mboussaid",
-            "repo": "JSS",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VerifyJS",
-          "description": "A minimal library that allows to add verification to your inputs By @mboussaid",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-02-10T11:41:42Z",
-            "owner": "mboussaid",
-            "repo": "VerifyJS",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ckeditor-uploadfile",
-          "description": "CKEditor plugin to upload files",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-03-18T18:40:57Z",
-            "owner": "mehdibo",
-            "repo": "ckeditor-uploadfile",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "JavaScript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "android-about-page",
-          "description": "Create an awesome About Page for your Android App in 2 minutes. by @medyo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-04-05T17:01:17Z",
-            "owner": "medyo",
-            "repo": "android-about-page",
-            "stars": 2029
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fancybuttons",
-          "description": "Icons, Borders, Radius ... for Android buttons. by @medyo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2021-02-20T18:36:47Z",
-            "owner": "medyo",
-            "repo": "Fancybuttons",
-            "stars": 1754
-          }
-        }
-      ],
-      "title": "Java"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LaravelInstaller",
-          "description": "A web installer for Laravel. by @rashidlaasri",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2023-11-28T20:00:49Z",
-            "owner": "rashidlaasri",
-            "repo": "LaravelInstaller",
-            "stars": 1937
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MyStockMaster",
-          "description": "Laravel-based inventory management system that offers an easy and straightforward way to keep track of inventory, sales, purchases, and more. It features a user-friendly dashboard, intuitive reports, made by @zakarialabib",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-15T22:48:21Z",
-            "owner": "Zakarialabib",
-            "repo": "myStockMaster",
-            "stars": 438
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PHPFlasher",
-          "description": "A powerful and flexible flash notification system for PHP With Symfony and Laravel implementations. by @yoeunes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-04-13T08:48:07Z",
-            "owner": "php-flasher",
-            "repo": "php-flasher",
-            "stars": 376
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "larapoll",
-          "description": "A Laravel package to manage your polls. by @akiyamaSM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-10-07T10:37:59Z",
-            "owner": "akiyamaSM",
-            "repo": "larapoll",
-            "stars": 254
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Xstate",
-          "description": "A state machine library to play with any complex behavior of your PHP objects (inspired from xstate.js). by @mouadziani",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-01-05T21:02:17Z",
-            "owner": "mouadziani",
-            "repo": "xstate",
-            "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Admin User Chatting",
-          "description": "A Live chat between users and admins made with Livewire.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-11-10T19:14:47Z",
-            "owner": "hbakouane",
-            "repo": "admin-user-chatting",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "laravel-model-trackable",
-          "description": "A laravel package that allows you to track and log nested changes applied on your models. by @mouadziani",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2022-07-31T03:51:16Z",
-            "owner": "mouadziani",
-            "repo": "laravel-model-trackable",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "laravel-query-inspector",
-          "description": "The missing laravel helper that allows you to inspect your eloquent queries with it's bind parameters. by @mouadziani",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-07-31T03:50:30Z",
-            "owner": "mouadziani",
-            "repo": "laravel-query-inspector",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chibi",
-          "description": "A mini PHP framework. by @akiyamaSM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-04T10:20:58Z",
-            "owner": "akiyamaSM",
-            "repo": "chibi",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Laravel-merchant",
-          "description": "A Laravel package for integrating the BnpParibas Mercanet payment gateway. by @mouadziani",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-06-05T14:53:27Z",
-            "owner": "mouadziani",
-            "repo": "laravel-mercanet",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Laravel, Vue & Admin LTE Boilerplate",
-          "description": "Laravel, Vue and Admin LTE integrated in one project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Less",
-            "last_commit": "2021-06-05T17:58:52Z",
-            "owner": "hbakouane",
-            "repo": "adminlte-laravel-vue",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Larabye",
-          "description": "A mini PHP starter / framework. by @mouadziani",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2021-03-08T23:49:50Z",
-            "owner": "mouadziani",
-            "repo": "Larabye",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Codeigniter-recaptcha",
-          "description": "A CodeIgniter library to use Google's recaptcha",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-06-15T13:07:06Z",
-            "owner": "mehdibo",
-            "repo": "Codeigniter-recaptcha",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Codeigniter-blockchain",
-          "description": "A Codeigniter library to use the Blockchain Wallet AP",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-08-18T23:29:48Z",
-            "owner": "mehdibo",
-            "repo": "Codeigniter-blockchain",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Codeigniter-sslhook",
-          "description": "A tool to set appropriate headers/redirection for SSL websites",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2021-12-06T11:45:07Z",
-            "owner": "mehdibo",
-            "repo": "Codeigniter-SSLHook",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ux-datatable",
-          "description": "A Datatable.net integration for Symfony. by @Aziz403",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-03-31T15:31:36Z",
-            "owner": "Aziz403",
-            "repo": "ux-datatable",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kickstart",
-          "description": "A very opinionated Laravel SPA boilerplate using Laravel 7.x / Typescript / Vue / TailwindCSS + Pest & Cypress for testing by @Stormix",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2021-10-06T17:20:54Z",
-            "owner": "Stormix",
-            "repo": "kickstart",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Laravel Log Reader",
-          "description": "An UI for laravel logs. By @simoebenhida",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-06-16T19:31:01Z",
-            "owner": "ci-on",
-            "repo": "laravel-log-reader",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Laravel Starter",
-          "description": "A laravel start that has all the stuff that i need when creating a fresh laravel app. By @simoebenhida",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-10-11T17:56:16Z",
-            "owner": "simoebenhida",
-            "repo": "laravel-starter",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "php-eyed3",
-          "description": "A PHP wrapper for reading and updating ID3 meta data of (e.g.) MP3 files using eyeD3. By @Stormix",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2018-05-26T16:47:51Z",
-            "owner": "Stormix",
-            "repo": "php-eyed3",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PHPForms",
-          "description": "A set of of tools to help you create forms and export data as fast as possible",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-01-05T17:43:53Z",
-            "owner": "mehdibo",
-            "repo": "PHPForms",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LbtcApi",
-          "description": "A Laravel Package for localbitcoins Api",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-06-23T19:59:02Z",
-            "owner": "marvelbark2",
-            "repo": "lbtcapi",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SlackBatch",
-          "description": "A CLI tool made with PHP to send Slack invitations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-10-09T10:59:38Z",
-            "owner": "mehdibo",
-            "repo": "SlackBatch",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bulksms-notifier",
-          "description": "A Symfony Notifier bridge for bulksms.ma",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-11-13T16:36:40Z",
-            "owner": "mehdibo",
-            "repo": "bulksms-notifier",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vinala",
-          "description": "An elegant and swift mini PHP Framework For Webmasters. by @youssefhad",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-03-19T08:34:42Z",
-            "owner": "vinala",
-            "repo": "vinala",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "PHP"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Responder",
-          "description": "A familiar HTTP Service Framework for Python by @taoufik07",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-01T03:13:05Z",
-            "owner": "kennethreitz",
-            "repo": "responder",
-            "stars": 3621
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AuthX",
-          "description": "A customizable Authentications and Oauth2 management for FastAPI by @yezz123",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T22:53:19Z",
-            "owner": "yezz123",
-            "repo": "authx",
-            "stars": 1198
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cyberowl",
-          "description": "A daily updated summary of security incidents being reported from different sources by @karimhabush",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T15:24:25Z",
-            "owner": "karimhabush",
-            "repo": "cyberowl",
-            "stars": 262
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DogeAPI",
-          "description": "An API with high performance built with FastAPI & SQLAlchemy, help to improve connection with Back-end by @yezz123",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-01T00:29:16Z",
-            "owner": "yezz123",
-            "repo": "ai-template",
-            "stars": 257
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fastapi-lazy",
-          "description": "A package with some utilities that you use in various projects made in FastAPI by @yezz123",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-24T08:25:14Z",
-            "owner": "yezz123",
-            "repo": "fastango",
-            "stars": 198
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dr_scaffold",
-          "description": "scaffold django rest apis like a champion by @Abdenasser",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-02T23:49:26Z",
-            "owner": "Abdenasser",
-            "repo": "dr_scaffold",
-            "stars": 166
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ORMDantic",
-          "description": "Asynchronous ORM that uses pydantic models to represent database tables by @yezz123",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T23:05:28Z",
-            "owner": "yezz123",
-            "repo": "ormdantic",
-            "stars": 152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FRDP",
-          "description": "Boilerplate code for quick docker implementation of REST API with JWT Authentication using FastAPI, PostgreSQL and PgAdmin by @yezz123",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-27T22:47:15Z",
-            "owner": "yezz123",
-            "repo": "FRDP",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "My-Business",
-          "description": "A business management tool featuring accounts, invoices, partners, projects, and server by @yezz123",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-29T23:21:52Z",
-            "owner": "yezz123",
-            "repo": "My-Business",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ping360_sonar",
-          "description": "ROS package for Blue Robotics Ping360 Sonar by @Stormix",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-02T10:07:46Z",
-            "owner": "CentraleNantesRobotics",
-            "repo": "ping360_sonar",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Athena",
-          "description": "Test your Security Skills, and Clean Code Development as a Pythonist, Hacker & Warrior by @yezz123",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-30T13:36:20Z",
-            "owner": "yezz123",
-            "repo": "Athena",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Apollo",
-          "description": "A basic Application with multiple functionalities built with FastAPI aim to help Users Buy New Items Provided using PaypalAPI by @yezz123",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-13T06:18:52Z",
-            "owner": "Yezz123-Archive",
-            "repo": "Apollo",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sourcerer-io-scrapper",
-          "description": "Because they don't have an API. https://sourcerer.io/ by @Stormix",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-01T21:24:45Z",
-            "owner": "Stormix",
-            "repo": "sourcerer-io-scrapper",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "goph",
-          "description": "Native SSH client to execute commands, upload/download files. by @melbahja",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-19T20:38:31Z",
-            "owner": "melbahja",
-            "repo": "goph",
-            "stars": 2023
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "recaptcha-go",
-          "description": "Validate Google reCAPTCHA v2 & v3 form submission package in golang. by @ezzarghili",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-02-14T16:35:43Z",
-            "owner": "ezzarghili",
-            "repo": "recaptcha-go",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "comet",
-          "description": "A demo interpreted programming language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-04-18T15:11:30Z",
-            "owner": "chermehdi",
-            "repo": "comet",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ctl",
-          "description": "A command line tool to run all systemd commands in one command . by @melbahja",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2020-02-27T14:23:49Z",
-            "owner": "melbahja",
-            "repo": "ctl",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Anusic-API",
-          "description": "Anime themes API. by @EOussama",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-02T02:03:15Z",
-            "owner": "eoussama",
-            "repo": "anusic-api",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Go"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Unnamed CSS",
-          "description": "Micro colorful CSS framework by @smakosh",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2021-05-10T03:29:44Z",
-            "owner": "smakosh",
-            "repo": "unnamed-css-framework",
-            "stars": 256
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tailwindcss Twitter Page",
-          "description": "A twitter profile made with tailwindcss. By @simoebenhida",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2018-08-30T09:53:20Z",
-            "owner": "simoebenhida",
-            "repo": "tailwindcss-twitter-page",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tailwindcss Paypal Page",
-          "description": "A paypal page made with tailwindcss. By @simoebenhida",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-02-03T22:58:40Z",
-            "owner": "simoebenhida",
-            "repo": "tailwindcss-paypal-page",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tailwindcss Starter",
-          "description": "A tailwindcss boilerplate. By @simoebenhida",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-08-26T20:58:28Z",
-            "owner": "simoebenhida",
-            "repo": "tailwindcss-starter",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "CSS"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Corona-Shield",
-          "description": "An open sourced Corona Tracking Mobile Application with Back-end (something like wiqaytna) made using Flutter, PHP and JS. by @aminejafur",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2020-05-18T16:28:22Z",
-            "owner": "aminejafur",
-            "repo": "corona-shield",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flutter Rocket",
-          "description": "Powerful package for state management & request. by M97chahboun",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2026-04-23T22:25:11Z",
-            "owner": "JahezAcademy",
-            "repo": "flutter_rocket",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Github Snitch",
-          "description": "package that helps you report bugs and issues on GitHub automatically. It can also be used to submit comments on existing issues. by M97chahboun",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2024-04-01T08:40:18Z",
-            "owner": "bixat",
-            "repo": "github_snitch",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rocket Timer",
-          "description": "Timer package. by M97chahboun",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2023-10-01T12:15:31Z",
-            "owner": "bixat",
-            "repo": "rocket_timer",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Flutter"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Tracking-with-darkflow",
-          "description": "Real-time people Multitracker using YOLO v2 and deep_sort with tensorflow. by @bendidi",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-01-03T16:35:29Z",
-            "owner": "obendidi",
-            "repo": "Tracking-with-darkflow",
-            "stars": 522
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Polaris",
-          "description": "Face recognition system with Futuristic UI design by @XN3UR0N",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-05-20T01:01:07Z",
-            "owner": "ChibaniMohamed",
-            "repo": "Polaris",
-            "stars": 247
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CNN age gender",
-          "description": "Age and Gender prediction using Keras by @XN3UR0N",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-12-13T19:59:05Z",
-            "owner": "ChibaniMohamed",
-            "repo": "cnn_age_gender",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ODC-World-Cup-2022-Predictions",
-          "description": "Prediction of the winner of an international matches Prediction results are \"Win / Lose / Draw\" and Apply the model to predict the result of FIFA world cup 2022 by @Omaraitbenhaddi",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-11-19T21:44:59Z",
-            "owner": "Omaraitbenhaddi",
-            "repo": "ODC-World-Cup-2022-Predictions",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PoseNet-chrome-Dinosaur",
-          "description": "Play the famous Chrom Dinosaur game using your body! by @aminejafur",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-08-28T00:15:40Z",
-            "owner": "aminejafur",
-            "repo": "PoseNet-chromeDinosaur",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "AI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "daktilo",
-          "description": "A Jekyll theme with a minimal design inspired by typewriters. by @kronik3r",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2021-04-01T07:22:37Z",
-            "owner": "kronik3r",
-            "repo": "daktilo",
-            "stars": 299
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GeeksBlabla",
-          "description": "GeeksBlala website source code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Astro",
-            "last_commit": "2026-03-02T15:10:22Z",
-            "owner": "geeksblabla",
-            "repo": "geeksblabla.community",
-            "stars": 296
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vscode-big-sur-icons",
-          "description": "Icons for VSCode based on macOS Big Sur design.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-02-10T15:15:22Z",
-            "owner": "mohouyizme",
-            "repo": "vscode-big-sur-icons",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DevC Casa Hacktoberfest",
-          "description": "A repository to learn about open source code contributions flow.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-02-28T11:24:45Z",
-            "owner": "geeksblabla",
-            "repo": "devc-casa-hacktoberfest",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HIGH TO LOW",
-          "description": "Codes in C and their equivalence in MIPS Assembly. by @zakarialaoui10",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2026-07-08T22:56:33Z",
-            "owner": "zakarialaoui10",
-            "repo": "mips-101",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libCplus",
-          "description": "Wonderful library with lots of useful functions, algorithms and data structures in C. by @BnademOverflow",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2021-07-15T14:17:38Z",
-            "owner": "BnademOverflow",
-            "repo": "libCplus",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ZikoMatrix",
-          "description": "Create and manipule matrices of arbitrary size and data type in arduino and its alternatives. by @zakarialaoui10",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-05T22:22:38Z",
-            "owner": "zakarialaoui10",
-            "repo": "ZikoMatrix",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "coronapy-cli",
-          "description": "A command line tool in python to fetch worldwide data about COVID-19. by @MouadBH",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-08T10:56:35Z",
-            "owner": "MouadBH",
-            "repo": "coronapy-cli",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PowerMonitor",
-          "description": "A C++ library designed to measure the electrical characteristics of AC circuits, such as voltage, current, power, reactive power, and power factor, for Arduino and its alternatives. by @zakarialaoui10",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-06-17T22:20:13Z",
-            "owner": "zakarialaoui10",
-            "repo": "power-monitor",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GeeksBlabla",
-          "description": "GeeksBlala NuxtJS version",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-03T21:19:55Z",
-            "owner": "akiyamaSM",
-            "repo": "geeksblabla",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Branch Timer",
-          "description": "Extension for track your work duration on every branch. by M97chahboun",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-04-20T22:52:15Z",
-            "owner": "bixat",
-            "repo": "vscode-branch-timer",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "power-my-vscode",
-          "description": "Make your VS Code great again! by @melbarch",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-01-19T11:18:47Z",
-            "owner": "melbarch",
-            "repo": "power-my-vscode",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CSE",
-          "description": "R package for Casablanca Stock Exchange Data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-09-29T21:32:24Z",
-            "owner": "bilnash",
-            "repo": "CSE",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "phpslim-dev",
-          "description": "Docker image for PHP Slim framework Development",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2020-01-21T14:24:55Z",
-            "owner": "mehdibo",
-            "repo": "phpslim-dev",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "saferwall",
-          "description": "A hackable malware sandbox for the 21st Century. by @LordNoteworthy",
-          "children": []
-        }
-      ],
-      "title": "Others"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:35:13.362Z",
+    "last_updated": "2026-08-19T12:40:20.692Z",
     "original_repository": "geeksblabla/awesome-morocco",
+    "original_repository_id": 230628711,
     "original_repository_sha": "9d66e3ab4f3d57b6ae7ab04f4c2b0552f271b4ff",
     "enhanced_repository": "enhansome/enhansome-morocco",
     "enhanced_repository_description": null,
