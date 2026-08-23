@@ -1190,7 +1190,7 @@
                 "archived": false,
                 "id": 459628681,
                 "language": "Python",
-                "last_commit": "2026-08-21T15:26:07Z",
+                "last_commit": "2026-08-22T15:14:18Z",
                 "owner": "karimhabush",
                 "repo": "cyberowl",
                 "stars": 263
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T06:30:55.935Z",
+    "last_updated": "2026-08-23T06:31:56.350Z",
     "original_repository": "geeksblabla/awesome-morocco",
     "original_repository_id": 230628711,
     "original_repository_sha": "9d66e3ab4f3d57b6ae7ab04f4c2b0552f271b4ff",
