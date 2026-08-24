@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "New List: https://awesome-morocco.dev/open-source",
+      "description": null,
       "items": [
         {
           "children": [
@@ -766,6 +766,28 @@
           "description": null,
           "node_type": "group",
           "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SmartBreadcrumbs",
+              "description": "A utility library for ASP.NET Core websites to manage breadcrumbs. By @zHaytam",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137535310,
+                "language": "C#",
+                "last_commit": "2023-03-27T19:09:41Z",
+                "owner": "zHaytam",
+                "repo": "SmartBreadcrumbs",
+                "stars": 164
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ASP.NET"
         },
         {
           "children": [
@@ -1867,11 +1889,11 @@
           "title": "Others"
         }
       ],
-      "title": "Open Source Projects"
+      "title": "Old list"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:45:57.671Z",
+    "last_updated": "2026-08-24T14:20:14.692Z",
     "original_repository": "geeksblabla/awesome-morocco",
     "original_repository_id": 230628711,
     "original_repository_sha": "9d66e3ab4f3d57b6ae7ab04f4c2b0552f271b4ff",
