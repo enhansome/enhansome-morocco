@@ -32,7 +32,7 @@
                 "last_commit": "2024-07-22T20:20:58Z",
                 "owner": "yjose",
                 "repo": "reactjs-popup",
-                "stars": 1806
+                "stars": 1805
               }
             },
             {
@@ -1197,7 +1197,7 @@
                 "archived": false,
                 "id": 399171157,
                 "language": "Python",
-                "last_commit": "2026-08-24T04:49:18Z",
+                "last_commit": "2026-08-24T22:23:42Z",
                 "owner": "yezz123",
                 "repo": "authx",
                 "stars": 1197
@@ -1212,7 +1212,7 @@
                 "archived": false,
                 "id": 459628681,
                 "language": "Python",
-                "last_commit": "2026-08-23T15:15:40Z",
+                "last_commit": "2026-08-24T15:33:27Z",
                 "owner": "karimhabush",
                 "repo": "cyberowl",
                 "stars": 263
@@ -1272,7 +1272,7 @@
                 "archived": false,
                 "id": 517756908,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:22:34Z",
+                "last_commit": "2026-08-24T22:35:57Z",
                 "owner": "yezz123",
                 "repo": "ormdantic",
                 "stars": 152
@@ -1893,7 +1893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:20:14.692Z",
+    "last_updated": "2026-08-25T06:14:12.061Z",
     "original_repository": "geeksblabla/awesome-morocco",
     "original_repository_id": 230628711,
     "original_repository_sha": "9d66e3ab4f3d57b6ae7ab04f4c2b0552f271b4ff",
