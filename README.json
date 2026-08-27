@@ -1200,7 +1200,7 @@
                 "last_commit": "2026-08-24T22:23:42Z",
                 "owner": "yezz123",
                 "repo": "authx",
-                "stars": 1197
+                "stars": 1198
               }
             },
             {
@@ -1212,7 +1212,7 @@
                 "archived": false,
                 "id": 459628681,
                 "language": "Python",
-                "last_commit": "2026-08-25T15:36:05Z",
+                "last_commit": "2026-08-26T16:13:04Z",
                 "owner": "karimhabush",
                 "repo": "cyberowl",
                 "stars": 263
@@ -1893,9 +1893,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:39:00.425Z",
-    "original_repository": "geeksblabla/awesome-morocco",
-    "original_repository_id": 230628711,
+    "last_updated": "2026-08-27T11:52:09.873Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 230628711,
+      "language": "TypeScript",
+      "last_commit": "2025-11-06T03:58:10Z",
+      "owner": "geeksblabla",
+      "repo": "awesome-morocco",
+      "stars": 747
+    },
     "original_repository_sha": "9d66e3ab4f3d57b6ae7ab04f4c2b0552f271b4ff",
     "enhanced_repository": "enhansome/enhansome-morocco",
     "enhanced_repository_description": null,
