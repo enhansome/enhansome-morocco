@@ -1432,7 +1432,7 @@
                 "id": 317664140,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-04-13T08:48:07Z",
+                "last_commit": "2026-08-30T20:04:50Z",
                 "open_issues": 8,
                 "owner": "php-flasher",
                 "repo": "php-flasher",
@@ -2029,7 +2029,7 @@
                 "open_issues": 1,
                 "owner": "kennethreitz",
                 "repo": "responder",
-                "stars": 3621,
+                "stars": 3620,
                 "topics": [
                   "falcon",
                   "flask",
@@ -2054,11 +2054,11 @@
                 "id": 399171157,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-27T16:52:15Z",
-                "open_issues": 1,
+                "last_commit": "2026-08-31T04:52:12Z",
+                "open_issues": 2,
                 "owner": "yezz123",
                 "repo": "authx",
-                "stars": 1197,
+                "stars": 1196,
                 "topics": [
                   "authentification",
                   "authorization",
@@ -2084,7 +2084,7 @@
                 "id": 459628681,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T18:06:37Z",
+                "last_commit": "2026-08-30T18:21:12Z",
                 "open_issues": 32,
                 "owner": "karimhabush",
                 "repo": "cyberowl",
@@ -2312,7 +2312,7 @@
                 "open_issues": 1,
                 "owner": "CentraleNantesRobotics",
                 "repo": "ping360_sonar",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:07.603Z"
@@ -3301,7 +3301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T11:06:07.913Z",
+    "last_updated": "2026-08-31T12:29:38.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
@@ -3313,7 +3313,7 @@
       "open_issues": 0,
       "owner": "geeksblabla",
       "repo": "awesome-morocco",
-      "stars": 747,
+      "stars": 748,
       "topics": [
         "awesome-list",
         "morocco"
