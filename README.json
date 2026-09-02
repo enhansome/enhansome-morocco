@@ -406,7 +406,7 @@
                 "open_issues": 0,
                 "owner": "Aziz403",
                 "repo": "MySQL_WhatsApp",
-                "stars": 28,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:07.603Z"
@@ -2058,7 +2058,7 @@
                 "open_issues": 2,
                 "owner": "yezz123",
                 "repo": "authx",
-                "stars": 1196,
+                "stars": 1197,
                 "topics": [
                   "authentification",
                   "authorization",
@@ -2084,7 +2084,7 @@
                 "id": 459628681,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-31T20:33:57Z",
+                "last_commit": "2026-09-01T18:06:07Z",
                 "open_issues": 32,
                 "owner": "karimhabush",
                 "repo": "cyberowl",
@@ -2434,7 +2434,7 @@
                 "open_issues": 1,
                 "owner": "melbahja",
                 "repo": "goph",
-                "stars": 2024,
+                "stars": 2025,
                 "topics": [
                   "downloader",
                   "go",
@@ -3301,7 +3301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T10:58:31.994Z",
+    "last_updated": "2026-09-02T10:27:54.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
