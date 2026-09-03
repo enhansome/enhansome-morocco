@@ -214,8 +214,8 @@
                 "id": 109014856,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-11T10:49:06Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-03T04:59:33Z",
+                "open_issues": 5,
                 "owner": "JefferyHus",
                 "repo": "es6-crawler-detect",
                 "stars": 96,
@@ -1432,7 +1432,7 @@
                 "id": 317664140,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-08-31T13:39:08Z",
+                "last_commit": "2026-09-02T15:53:12Z",
                 "open_issues": 7,
                 "owner": "php-flasher",
                 "repo": "php-flasher",
@@ -2029,7 +2029,7 @@
                 "open_issues": 1,
                 "owner": "kennethreitz",
                 "repo": "responder",
-                "stars": 3620,
+                "stars": 3619,
                 "topics": [
                   "falcon",
                   "flask",
@@ -2084,7 +2084,7 @@
                 "id": 459628681,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T18:06:07Z",
+                "last_commit": "2026-09-02T18:19:23Z",
                 "open_issues": 32,
                 "owner": "karimhabush",
                 "repo": "cyberowl",
@@ -2434,7 +2434,7 @@
                 "open_issues": 1,
                 "owner": "melbahja",
                 "repo": "goph",
-                "stars": 2025,
+                "stars": 2026,
                 "topics": [
                   "downloader",
                   "go",
@@ -3301,7 +3301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T10:27:54.871Z",
+    "last_updated": "2026-09-03T10:34:33.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
