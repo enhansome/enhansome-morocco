@@ -1055,7 +1055,7 @@
                 "id": 540156967,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2025-12-21T17:34:14Z",
+                "last_commit": "2026-09-03T12:39:57Z",
                 "open_issues": 0,
                 "owner": "ayoubsousali",
                 "repo": "next-salat",
@@ -2084,7 +2084,7 @@
                 "id": 459628681,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-02T18:19:23Z",
+                "last_commit": "2026-09-03T18:17:31Z",
                 "open_issues": 32,
                 "owner": "karimhabush",
                 "repo": "cyberowl",
@@ -2143,11 +2143,11 @@
                 "id": 412096693,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-24T08:25:14Z",
+                "last_commit": "2026-09-04T08:24:51Z",
                 "open_issues": 4,
                 "owner": "yezz123",
                 "repo": "fastango",
-                "stars": 197,
+                "stars": 198,
                 "topics": [
                   "cli",
                   "fastapi",
@@ -2431,10 +2431,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-07-19T20:38:31Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "melbahja",
                 "repo": "goph",
-                "stars": 2026,
+                "stars": 2028,
                 "topics": [
                   "downloader",
                   "go",
@@ -3301,7 +3301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T10:34:33.785Z",
+    "last_updated": "2026-09-04T10:25:22.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
@@ -3313,7 +3313,7 @@
       "open_issues": 0,
       "owner": "geeksblabla",
       "repo": "awesome-morocco",
-      "stars": 748,
+      "stars": 747,
       "topics": [
         "awesome-list",
         "morocco"
