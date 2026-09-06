@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "redux-saga",
                 "repo": "redux-saga",
-                "stars": 22423,
+                "stars": 22422,
                 "topics": [
                   "effects",
                   "middleware",
@@ -2084,7 +2084,7 @@
                 "id": 459628681,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-04T17:58:19Z",
+                "last_commit": "2026-09-05T17:04:09Z",
                 "open_issues": 32,
                 "owner": "karimhabush",
                 "repo": "cyberowl",
@@ -3301,7 +3301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:52:05.087Z",
+    "last_updated": "2026-09-06T10:08:47.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
