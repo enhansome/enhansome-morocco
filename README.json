@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "redux-saga",
                 "repo": "redux-saga",
-                "stars": 22422,
+                "stars": 22419,
                 "topics": [
                   "effects",
                   "middleware",
@@ -2054,7 +2054,7 @@
                 "id": 399171157,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-07T04:49:21Z",
+                "last_commit": "2026-09-07T22:37:05Z",
                 "open_issues": 3,
                 "owner": "yezz123",
                 "repo": "authx",
@@ -2084,7 +2084,7 @@
                 "id": 459628681,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-06T17:27:38Z",
+                "last_commit": "2026-09-07T18:57:41Z",
                 "open_issues": 32,
                 "owner": "karimhabush",
                 "repo": "cyberowl",
@@ -2204,7 +2204,7 @@
                 "id": 517756908,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T08:03:15Z",
+                "last_commit": "2026-09-07T22:57:10Z",
                 "open_issues": 3,
                 "owner": "yezz123",
                 "repo": "ormdantic",
@@ -2434,7 +2434,7 @@
                 "open_issues": 2,
                 "owner": "melbahja",
                 "repo": "goph",
-                "stars": 2030,
+                "stars": 2031,
                 "topics": [
                   "downloader",
                   "go",
@@ -2967,10 +2967,10 @@
                 "language": "Astro",
                 "license": null,
                 "last_commit": "2026-03-02T15:10:22Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "geeksblabla",
                 "repo": "geeksblabla.community",
-                "stars": 296,
+                "stars": 297,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:07:07.603Z"
@@ -3301,7 +3301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T11:24:01.581Z",
+    "last_updated": "2026-09-08T10:28:09.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
@@ -3313,7 +3313,7 @@
       "open_issues": 0,
       "owner": "geeksblabla",
       "repo": "awesome-morocco",
-      "stars": 747,
+      "stars": 748,
       "topics": [
         "awesome-list",
         "morocco"
