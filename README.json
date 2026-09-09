@@ -48,7 +48,7 @@
                 "open_issues": 94,
                 "owner": "yjose",
                 "repo": "reactjs-popup",
-                "stars": 1805,
+                "stars": 1804,
                 "topics": [
                   "component",
                   "modal",
@@ -2029,7 +2029,7 @@
                 "open_issues": 1,
                 "owner": "kennethreitz",
                 "repo": "responder",
-                "stars": 3619,
+                "stars": 3618,
                 "topics": [
                   "falcon",
                   "flask",
@@ -2084,7 +2084,7 @@
                 "id": 459628681,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-07T18:57:41Z",
+                "last_commit": "2026-09-08T18:14:42Z",
                 "open_issues": 32,
                 "owner": "karimhabush",
                 "repo": "cyberowl",
@@ -2434,7 +2434,7 @@
                 "open_issues": 2,
                 "owner": "melbahja",
                 "repo": "goph",
-                "stars": 2031,
+                "stars": 2032,
                 "topics": [
                   "downloader",
                   "go",
@@ -3301,7 +3301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T10:28:09.894Z",
+    "last_updated": "2026-09-09T10:38:48.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
