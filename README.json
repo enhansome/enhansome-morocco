@@ -21,7 +21,7 @@
                 "open_issues": 22,
                 "owner": "redux-saga",
                 "repo": "redux-saga",
-                "stars": 22417,
+                "stars": 22418,
                 "topics": [
                   "effects",
                   "middleware",
@@ -2054,7 +2054,7 @@
                 "id": 399171157,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T04:52:11Z",
+                "last_commit": "2026-09-14T22:32:02Z",
                 "open_issues": 3,
                 "owner": "yezz123",
                 "repo": "authx",
@@ -2084,7 +2084,7 @@
                 "id": 459628681,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-13T17:50:02Z",
+                "last_commit": "2026-09-14T19:42:58Z",
                 "open_issues": 32,
                 "owner": "karimhabush",
                 "repo": "cyberowl",
@@ -2204,7 +2204,7 @@
                 "id": 517756908,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-07T22:57:10Z",
+                "last_commit": "2026-09-14T22:44:14Z",
                 "open_issues": 3,
                 "owner": "yezz123",
                 "repo": "ormdantic",
@@ -2434,7 +2434,7 @@
                 "open_issues": 2,
                 "owner": "melbahja",
                 "repo": "goph",
-                "stars": 2034,
+                "stars": 2035,
                 "topics": [
                   "downloader",
                   "go",
@@ -3301,7 +3301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T11:34:05.865Z",
+    "last_updated": "2026-09-15T10:53:58.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
