@@ -1588,7 +1588,7 @@
                 "open_issues": 2,
                 "owner": "akiyamaSM",
                 "repo": "chibi",
-                "stars": 37,
+                "stars": 38,
                 "topics": [
                   "chibi",
                   "framework",
@@ -2054,7 +2054,7 @@
                 "id": 399171157,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T23:06:52Z",
+                "last_commit": "2026-09-21T04:52:03Z",
                 "open_issues": 4,
                 "owner": "yezz123",
                 "repo": "authx",
@@ -2084,7 +2084,7 @@
                 "id": 459628681,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T17:40:20Z",
+                "last_commit": "2026-09-20T17:51:20Z",
                 "open_issues": 32,
                 "owner": "karimhabush",
                 "repo": "cyberowl",
@@ -3301,7 +3301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T10:29:30.738Z",
+    "last_updated": "2026-09-21T11:47:46.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
@@ -3313,7 +3313,7 @@
       "open_issues": 1,
       "owner": "geeksblabla",
       "repo": "awesome-morocco",
-      "stars": 750,
+      "stars": 751,
       "topics": [
         "awesome-list",
         "morocco"
