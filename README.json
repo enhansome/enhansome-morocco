@@ -1055,7 +1055,7 @@
                 "id": 540156967,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-10T18:13:59Z",
+                "last_commit": "2026-09-21T14:54:05Z",
                 "open_issues": 0,
                 "owner": "ayoubsousali",
                 "repo": "next-salat",
@@ -2054,7 +2054,7 @@
                 "id": 399171157,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-21T04:52:03Z",
+                "last_commit": "2026-09-21T22:21:43Z",
                 "open_issues": 4,
                 "owner": "yezz123",
                 "repo": "authx",
@@ -2084,7 +2084,7 @@
                 "id": 459628681,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T17:51:20Z",
+                "last_commit": "2026-09-21T19:51:18Z",
                 "open_issues": 32,
                 "owner": "karimhabush",
                 "repo": "cyberowl",
@@ -2204,7 +2204,7 @@
                 "id": 517756908,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T23:08:07Z",
+                "last_commit": "2026-09-21T22:38:40Z",
                 "open_issues": 3,
                 "owner": "yezz123",
                 "repo": "ormdantic",
@@ -2434,7 +2434,7 @@
                 "open_issues": 2,
                 "owner": "melbahja",
                 "repo": "goph",
-                "stars": 2034,
+                "stars": 2035,
                 "topics": [
                   "downloader",
                   "go",
@@ -3301,7 +3301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T11:47:46.288Z",
+    "last_updated": "2026-09-22T10:49:48.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
