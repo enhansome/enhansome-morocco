@@ -620,7 +620,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-07-12T20:36:41Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "Zizwar",
                 "repo": "mushaf-mauri",
                 "stars": 16,
@@ -2054,7 +2054,7 @@
                 "id": 399171157,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-21T22:21:43Z",
+                "last_commit": "2026-09-28T04:49:02Z",
                 "open_issues": 4,
                 "owner": "yezz123",
                 "repo": "authx",
@@ -2084,7 +2084,7 @@
                 "id": 459628681,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-26T18:13:17Z",
+                "last_commit": "2026-09-27T18:50:36Z",
                 "open_issues": 32,
                 "owner": "karimhabush",
                 "repo": "cyberowl",
@@ -3301,7 +3301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T11:15:01.056Z",
+    "last_updated": "2026-09-28T12:42:51.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
