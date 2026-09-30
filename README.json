@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "redux-saga",
                 "repo": "redux-saga",
-                "stars": 22415,
+                "stars": 22414,
                 "topics": [
                   "effects",
                   "middleware",
@@ -48,7 +48,7 @@
                 "open_issues": 94,
                 "owner": "yjose",
                 "repo": "reactjs-popup",
-                "stars": 1804,
+                "stars": 1805,
                 "topics": [
                   "component",
                   "modal",
@@ -2084,7 +2084,7 @@
                 "id": 459628681,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-28T20:59:59Z",
+                "last_commit": "2026-09-29T19:45:18Z",
                 "open_issues": 32,
                 "owner": "karimhabush",
                 "repo": "cyberowl",
@@ -2115,7 +2115,7 @@
                 "open_issues": 3,
                 "owner": "yezz123",
                 "repo": "ai-template",
-                "stars": 253,
+                "stars": 254,
                 "topics": [
                   "ai",
                   "asyncio",
@@ -3301,7 +3301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T11:59:48.311Z",
+    "last_updated": "2026-09-30T11:48:14.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
