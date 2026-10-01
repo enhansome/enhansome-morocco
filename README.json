@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "redux-saga",
                 "repo": "redux-saga",
-                "stars": 22414,
+                "stars": 22412,
                 "topics": [
                   "effects",
                   "middleware",
@@ -48,7 +48,7 @@
                 "open_issues": 94,
                 "owner": "yjose",
                 "repo": "reactjs-popup",
-                "stars": 1805,
+                "stars": 1804,
                 "topics": [
                   "component",
                   "modal",
@@ -1381,7 +1381,7 @@
                 "open_issues": 30,
                 "owner": "rashidlaasri",
                 "repo": "LaravelInstaller",
-                "stars": 1935,
+                "stars": 1934,
                 "topics": [
                   "laravel",
                   "laravel-installer"
@@ -2084,7 +2084,7 @@
                 "id": 459628681,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-29T19:45:18Z",
+                "last_commit": "2026-09-30T19:46:52Z",
                 "open_issues": 32,
                 "owner": "karimhabush",
                 "repo": "cyberowl",
@@ -2111,7 +2111,7 @@
                 "id": 366633671,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T23:07:46Z",
+                "last_commit": "2026-10-01T00:31:28Z",
                 "open_issues": 3,
                 "owner": "yezz123",
                 "repo": "ai-template",
@@ -2204,7 +2204,7 @@
                 "id": 517756908,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-28T23:29:44Z",
+                "last_commit": "2026-10-01T08:06:22Z",
                 "open_issues": 3,
                 "owner": "yezz123",
                 "repo": "ormdantic",
@@ -3301,7 +3301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T11:48:14.538Z",
+    "last_updated": "2026-10-01T12:17:29.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
