@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T18:29:34Z",
+                    "last_commit": "2026-10-04T18:30:36Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -2314,7 +2314,7 @@
                     "open_issues": 1,
                     "owner": "CentraleNantesRobotics",
                     "repo": "ping360_sonar",
-                    "stars": 49,
+                    "stars": 50,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:07:07.603Z"
@@ -2436,7 +2436,7 @@
                     "open_issues": 2,
                     "owner": "melbahja",
                     "repo": "goph",
-                    "stars": 2035,
+                    "stars": 2036,
                     "topics": [
                       "downloader",
                       "go",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T11:41:14.127Z",
+    "last_updated": "2026-10-05T13:23:54.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
