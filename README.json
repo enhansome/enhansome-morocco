@@ -1407,7 +1407,7 @@
                     "open_issues": 6,
                     "owner": "Zakarialabib",
                     "repo": "myStockMaster",
-                    "stars": 439,
+                    "stars": 440,
                     "topics": [
                       "alpinejs",
                       "crm",
@@ -2060,7 +2060,7 @@
                     "open_issues": 7,
                     "owner": "yezz123",
                     "repo": "authx",
-                    "stars": 1203,
+                    "stars": 1204,
                     "topics": [
                       "authentification",
                       "authorization",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T21:46:07Z",
+                    "last_commit": "2026-10-06T19:57:36Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -2436,7 +2436,7 @@
                     "open_issues": 2,
                     "owner": "melbahja",
                     "repo": "goph",
-                    "stars": 2036,
+                    "stars": 2037,
                     "topics": [
                       "downloader",
                       "go",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T12:38:03.926Z",
+    "last_updated": "2026-10-07T12:31:23.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
