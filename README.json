@@ -20,10 +20,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-09-13T14:13:14Z",
-                    "open_issues": 23,
+                    "open_issues": 24,
                     "owner": "redux-saga",
                     "repo": "redux-saga",
-                    "stars": 22412,
+                    "stars": 22413,
                     "topics": [
                       "effects",
                       "middleware",
@@ -1294,7 +1294,7 @@
                     "open_issues": 20,
                     "owner": "medyo",
                     "repo": "android-about-page",
-                    "stars": 2026,
+                    "stars": 2027,
                     "topics": [
                       "android",
                       "android-ui"
@@ -1318,7 +1318,7 @@
                     "open_issues": 27,
                     "owner": "medyo",
                     "repo": "Fancybuttons",
-                    "stars": 1752,
+                    "stars": 1753,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:07:07.603Z"
@@ -1383,7 +1383,7 @@
                     "open_issues": 30,
                     "owner": "rashidlaasri",
                     "repo": "LaravelInstaller",
-                    "stars": 1934,
+                    "stars": 1935,
                     "topics": [
                       "laravel",
                       "laravel-installer"
@@ -2060,7 +2060,7 @@
                     "open_issues": 7,
                     "owner": "yezz123",
                     "repo": "authx",
-                    "stars": 1204,
+                    "stars": 1203,
                     "topics": [
                       "authentification",
                       "authorization",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-07T20:24:02Z",
+                    "last_commit": "2026-10-08T20:26:48Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -2436,7 +2436,7 @@
                     "open_issues": 2,
                     "owner": "melbahja",
                     "repo": "goph",
-                    "stars": 2038,
+                    "stars": 2037,
                     "topics": [
                       "downloader",
                       "go",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T12:40:56.051Z",
+    "last_updated": "2026-10-09T12:28:01.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
