@@ -1383,7 +1383,7 @@
                     "open_issues": 30,
                     "owner": "rashidlaasri",
                     "repo": "LaravelInstaller",
-                    "stars": 1935,
+                    "stars": 1933,
                     "topics": [
                       "laravel",
                       "laravel-installer"
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-08T20:26:48Z",
+                    "last_commit": "2026-10-09T19:59:05Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T12:28:01.990Z",
+    "last_updated": "2026-10-10T11:46:56.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
