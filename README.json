@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T19:59:05Z",
+                    "last_commit": "2026-10-10T19:05:57Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -2176,7 +2176,7 @@
                     "open_issues": 0,
                     "owner": "Abdenasser",
                     "repo": "dr_scaffold",
-                    "stars": 167,
+                    "stars": 168,
                     "topics": [
                       "apps",
                       "command-line-tool",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:46:56.087Z",
+    "last_updated": "2026-10-11T11:59:04.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
@@ -3317,7 +3317,7 @@
       "language": "TypeScript",
       "license": null,
       "last_commit": "2025-11-06T03:58:10Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "geeksblabla",
       "repo": "awesome-morocco",
       "stars": 752,
