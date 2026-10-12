@@ -1318,7 +1318,7 @@
                     "open_issues": 27,
                     "owner": "medyo",
                     "repo": "Fancybuttons",
-                    "stars": 1753,
+                    "stars": 1752,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:07:07.603Z"
@@ -1407,7 +1407,7 @@
                     "open_issues": 6,
                     "owner": "Zakarialabib",
                     "repo": "myStockMaster",
-                    "stars": 440,
+                    "stars": 441,
                     "topics": [
                       "alpinejs",
                       "crm",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-10T19:05:57Z",
+                    "last_commit": "2026-10-11T19:17:59Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -2117,7 +2117,7 @@
                     "open_issues": 3,
                     "owner": "yezz123",
                     "repo": "ai-template",
-                    "stars": 254,
+                    "stars": 256,
                     "topics": [
                       "ai",
                       "asyncio",
@@ -2210,7 +2210,7 @@
                     "open_issues": 1,
                     "owner": "yezz123",
                     "repo": "ormdantic",
-                    "stars": 154,
+                    "stars": 155,
                     "topics": [
                       "database",
                       "orm",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:59:04.230Z",
+    "last_updated": "2026-10-12T14:13:39.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
