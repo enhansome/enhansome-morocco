@@ -80,7 +80,7 @@
                     "open_issues": 0,
                     "owner": "smakosh",
                     "repo": "gatsby-portfolio-dev",
-                    "stars": 822,
+                    "stars": 821,
                     "topics": [
                       "a11y",
                       "gatsby",
@@ -2056,11 +2056,11 @@
                     "id": 399171157,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-06T01:01:39Z",
+                    "last_commit": "2026-10-12T23:22:17Z",
                     "open_issues": 7,
                     "owner": "yezz123",
                     "repo": "authx",
-                    "stars": 1203,
+                    "stars": 1204,
                     "topics": [
                       "authentification",
                       "authorization",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-11T19:17:59Z",
+                    "last_commit": "2026-10-12T22:21:52Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -2117,7 +2117,7 @@
                     "open_issues": 3,
                     "owner": "yezz123",
                     "repo": "ai-template",
-                    "stars": 256,
+                    "stars": 257,
                     "topics": [
                       "ai",
                       "asyncio",
@@ -2206,7 +2206,7 @@
                     "id": 517756908,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-06T01:14:10Z",
+                    "last_commit": "2026-10-12T23:34:52Z",
                     "open_issues": 1,
                     "owner": "yezz123",
                     "repo": "ormdantic",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T14:13:39.603Z",
+    "last_updated": "2026-10-13T13:23:51.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
@@ -3317,7 +3317,7 @@
       "language": "TypeScript",
       "license": null,
       "last_commit": "2025-11-06T03:58:10Z",
-      "open_issues": 2,
+      "open_issues": 1,
       "owner": "geeksblabla",
       "repo": "awesome-morocco",
       "stars": 752,
