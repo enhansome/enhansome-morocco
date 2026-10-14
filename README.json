@@ -50,7 +50,7 @@
                     "open_issues": 94,
                     "owner": "yjose",
                     "repo": "reactjs-popup",
-                    "stars": 1804,
+                    "stars": 1805,
                     "topics": [
                       "component",
                       "modal",
@@ -2031,7 +2031,7 @@
                     "open_issues": 1,
                     "owner": "kennethreitz",
                     "repo": "responder",
-                    "stars": 3616,
+                    "stars": 3617,
                     "topics": [
                       "falcon",
                       "flask",
@@ -2060,7 +2060,7 @@
                     "open_issues": 7,
                     "owner": "yezz123",
                     "repo": "authx",
-                    "stars": 1204,
+                    "stars": 1203,
                     "topics": [
                       "authentification",
                       "authorization",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-12T22:21:52Z",
+                    "last_commit": "2026-10-13T20:28:22Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T13:23:51.820Z",
+    "last_updated": "2026-10-14T11:01:48.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
@@ -3320,7 +3320,7 @@
       "open_issues": 1,
       "owner": "geeksblabla",
       "repo": "awesome-morocco",
-      "stars": 752,
+      "stars": 753,
       "topics": [
         "awesome-list",
         "morocco"
