@@ -2060,7 +2060,7 @@
                     "open_issues": 7,
                     "owner": "yezz123",
                     "repo": "authx",
-                    "stars": 1204,
+                    "stars": 1203,
                     "topics": [
                       "authentification",
                       "authorization",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-14T19:07:20Z",
+                    "last_commit": "2026-10-15T18:50:07Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T10:45:02.960Z",
+    "last_updated": "2026-10-16T10:32:32.965Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
@@ -3317,7 +3317,7 @@
       "language": "TypeScript",
       "license": null,
       "last_commit": "2025-11-06T03:58:10Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "geeksblabla",
       "repo": "awesome-morocco",
       "stars": 753,
