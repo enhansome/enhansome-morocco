@@ -23,7 +23,7 @@
                     "open_issues": 24,
                     "owner": "redux-saga",
                     "repo": "redux-saga",
-                    "stars": 22412,
+                    "stars": 22411,
                     "topics": [
                       "effects",
                       "middleware",
@@ -135,7 +135,7 @@
                     "open_issues": 21,
                     "owner": "oumoussa98",
                     "repo": "vue3-infinite-loading",
-                    "stars": 194,
+                    "stars": 193,
                     "topics": [
                       "infinite",
                       "infinite-loading",
@@ -2031,7 +2031,7 @@
                     "open_issues": 1,
                     "owner": "kennethreitz",
                     "repo": "responder",
-                    "stars": 3616,
+                    "stars": 3617,
                     "topics": [
                       "falcon",
                       "flask",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-15T18:50:07Z",
+                    "last_commit": "2026-10-16T18:34:08Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T10:32:32.965Z",
+    "last_updated": "2026-10-17T10:02:34.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
