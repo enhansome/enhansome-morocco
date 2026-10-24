@@ -2031,7 +2031,7 @@
                     "open_issues": 1,
                     "owner": "kennethreitz",
                     "repo": "responder",
-                    "stars": 3618,
+                    "stars": 3617,
                     "topics": [
                       "falcon",
                       "flask",
@@ -2056,7 +2056,7 @@
                     "id": 399171157,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-19T23:21:34Z",
+                    "last_commit": "2026-10-23T23:55:23Z",
                     "open_issues": 7,
                     "owner": "yezz123",
                     "repo": "authx",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T19:01:08Z",
+                    "last_commit": "2026-10-23T18:50:20Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T10:54:23.742Z",
+    "last_updated": "2026-10-24T10:08:54.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
