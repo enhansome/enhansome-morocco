@@ -47,7 +47,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2024-07-22T20:20:58Z",
-                    "open_issues": 94,
+                    "open_issues": 93,
                     "owner": "yjose",
                     "repo": "reactjs-popup",
                     "stars": 1805,
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-23T18:50:20Z",
+                    "last_commit": "2026-10-24T17:46:07Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T10:08:54.202Z",
+    "last_updated": "2026-10-25T10:34:33.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
