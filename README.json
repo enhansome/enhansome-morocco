@@ -23,7 +23,7 @@
                     "open_issues": 26,
                     "owner": "redux-saga",
                     "repo": "redux-saga",
-                    "stars": 22409,
+                    "stars": 22408,
                     "topics": [
                       "effects",
                       "middleware",
@@ -50,7 +50,7 @@
                     "open_issues": 93,
                     "owner": "yjose",
                     "repo": "reactjs-popup",
-                    "stars": 1805,
+                    "stars": 1804,
                     "topics": [
                       "component",
                       "modal",
@@ -1404,10 +1404,10 @@
                     "language": "PHP",
                     "license": "MIT",
                     "last_commit": "2026-08-15T22:48:21Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "Zakarialabib",
                     "repo": "myStockMaster",
-                    "stars": 439,
+                    "stars": 440,
                     "topics": [
                       "alpinejs",
                       "crm",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-26T20:15:21Z",
+                    "last_commit": "2026-10-27T19:47:31Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -2436,7 +2436,7 @@
                     "open_issues": 2,
                     "owner": "melbahja",
                     "repo": "goph",
-                    "stars": 2036,
+                    "stars": 2035,
                     "topics": [
                       "downloader",
                       "go",
@@ -3045,7 +3045,7 @@
                     "open_issues": 0,
                     "owner": "zakarialaoui10",
                     "repo": "mips-101",
-                    "stars": 64,
+                    "stars": 65,
                     "topics": [
                       "asm",
                       "assembly",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T11:28:53.024Z",
+    "last_updated": "2026-10-28T11:59:42.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
