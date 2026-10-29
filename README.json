@@ -23,7 +23,7 @@
                     "open_issues": 26,
                     "owner": "redux-saga",
                     "repo": "redux-saga",
-                    "stars": 22408,
+                    "stars": 22409,
                     "topics": [
                       "effects",
                       "middleware",
@@ -1404,7 +1404,7 @@
                     "language": "PHP",
                     "license": "MIT",
                     "last_commit": "2026-08-15T22:48:21Z",
-                    "open_issues": 8,
+                    "open_issues": 9,
                     "owner": "Zakarialabib",
                     "repo": "myStockMaster",
                     "stars": 440,
@@ -1471,7 +1471,7 @@
                     "open_issues": 6,
                     "owner": "akiyamaSM",
                     "repo": "larapoll",
-                    "stars": 254,
+                    "stars": 253,
                     "topics": [
                       "eloquent",
                       "laravel",
@@ -2028,7 +2028,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-01T03:13:05Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "kennethreitz",
                     "repo": "responder",
                     "stars": 3618,
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-27T19:47:31Z",
+                    "last_commit": "2026-10-28T20:01:33Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T11:59:42.705Z",
+    "last_updated": "2026-10-29T12:09:30.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
