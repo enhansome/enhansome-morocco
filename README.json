@@ -2027,8 +2027,8 @@
                     "id": 152237787,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-01T03:13:05Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-10-30T16:03:52Z",
+                    "open_issues": 1,
                     "owner": "kennethreitz",
                     "repo": "responder",
                     "stars": 3618,
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-29T20:00:55Z",
+                    "last_commit": "2026-10-30T19:48:59Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T12:00:23.302Z",
+    "last_updated": "2026-10-31T11:35:30.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
