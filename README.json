@@ -1403,8 +1403,8 @@
                     "id": 545752823,
                     "language": "PHP",
                     "license": "MIT",
-                    "last_commit": "2026-08-15T22:48:21Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-10-31T12:57:03Z",
+                    "open_issues": 8,
                     "owner": "Zakarialabib",
                     "repo": "myStockMaster",
                     "stars": 440,
@@ -2031,7 +2031,7 @@
                     "open_issues": 1,
                     "owner": "kennethreitz",
                     "repo": "responder",
-                    "stars": 3618,
+                    "stars": 3617,
                     "topics": [
                       "falcon",
                       "flask",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-30T19:48:59Z",
+                    "last_commit": "2026-10-31T19:41:03Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -2206,8 +2206,8 @@
                     "id": 517756908,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-26T23:11:46Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-11-01T09:02:09Z",
+                    "open_issues": 3,
                     "owner": "yezz123",
                     "repo": "ormdantic",
                     "stars": 155,
@@ -3045,7 +3045,7 @@
                     "open_issues": 0,
                     "owner": "zakarialaoui10",
                     "repo": "mips-101",
-                    "stars": 65,
+                    "stars": 64,
                     "topics": [
                       "asm",
                       "assembly",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T11:35:30.717Z",
+    "last_updated": "2026-11-01T12:32:50.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
