@@ -23,7 +23,7 @@
                     "open_issues": 26,
                     "owner": "redux-saga",
                     "repo": "redux-saga",
-                    "stars": 22409,
+                    "stars": 22408,
                     "topics": [
                       "effects",
                       "middleware",
@@ -50,7 +50,7 @@
                     "open_issues": 93,
                     "owner": "yjose",
                     "repo": "reactjs-popup",
-                    "stars": 1803,
+                    "stars": 1804,
                     "topics": [
                       "component",
                       "modal",
@@ -455,7 +455,7 @@
                     "open_issues": 0,
                     "owner": "soub4i",
                     "repo": "web-merge",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": [
                       "fragments",
                       "microfrontend",
@@ -1294,7 +1294,7 @@
                     "open_issues": 20,
                     "owner": "medyo",
                     "repo": "android-about-page",
-                    "stars": 2025,
+                    "stars": 2027,
                     "topics": [
                       "android",
                       "android-ui"
@@ -1407,7 +1407,7 @@
                     "open_issues": 8,
                     "owner": "Zakarialabib",
                     "repo": "myStockMaster",
-                    "stars": 440,
+                    "stars": 441,
                     "topics": [
                       "alpinejs",
                       "crm",
@@ -2056,8 +2056,8 @@
                     "id": 399171157,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-02T04:47:40Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-11-03T00:05:13Z",
+                    "open_issues": 3,
                     "owner": "yezz123",
                     "repo": "authx",
                     "stars": 1204,
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-01T19:19:05Z",
+                    "last_commit": "2026-11-02T22:58:25Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -2206,7 +2206,7 @@
                     "id": 517756908,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-01T09:02:09Z",
+                    "last_commit": "2026-11-03T00:16:44Z",
                     "open_issues": 3,
                     "owner": "yezz123",
                     "repo": "ormdantic",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T14:35:29.378Z",
+    "last_updated": "2026-11-03T13:29:30.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
