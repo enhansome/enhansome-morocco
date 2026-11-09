@@ -522,7 +522,7 @@
                     "open_issues": 1,
                     "owner": "kafiln",
                     "repo": "salat-api",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:07:07.603Z"
@@ -1407,7 +1407,7 @@
                     "open_issues": 8,
                     "owner": "Zakarialabib",
                     "repo": "myStockMaster",
-                    "stars": 442,
+                    "stars": 441,
                     "topics": [
                       "alpinejs",
                       "crm",
@@ -2027,11 +2027,11 @@
                     "id": 152237787,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T16:03:52Z",
+                    "last_commit": "2026-11-09T14:56:12Z",
                     "open_issues": 1,
                     "owner": "kennethreitz",
                     "repo": "responder",
-                    "stars": 3617,
+                    "stars": 3616,
                     "topics": [
                       "falcon",
                       "flask",
@@ -2056,11 +2056,11 @@
                     "id": 399171157,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-03T00:05:13Z",
+                    "last_commit": "2026-11-09T04:50:08Z",
                     "open_issues": 3,
                     "owner": "yezz123",
                     "repo": "authx",
-                    "stars": 1203,
+                    "stars": 1204,
                     "topics": [
                       "authentification",
                       "authorization",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-07T19:14:14Z",
+                    "last_commit": "2026-11-08T19:16:35Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -3064,35 +3064,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "libCplus",
-                  "description": "Wonderful library with lots of useful functions, algorithms and data structures in C. by @BnademOverflow",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "Wonderful library with lots of useful functions, algorithms and data structures in C",
-                    "homepage": null,
-                    "id": 347697416,
-                    "language": "C",
-                    "license": "GPL-3.0",
-                    "last_commit": "2021-07-15T14:17:38Z",
-                    "open_issues": 0,
-                    "owner": "BnademOverflow",
-                    "repo": "libCplus",
-                    "stars": 51,
-                    "topics": [
-                      "algorithms",
-                      "c",
-                      "data-structures",
-                      "imperative-programming",
-                      "library",
-                      "low-level-programming",
-                      "makefile"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:07:07.603Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "ZikoMatrix",
                   "description": "Create and manipule matrices of arbitrary size and data type in arduino and its alternatives. by @zakarialaoui10",
                   "children": [],
@@ -3118,6 +3089,35 @@
                       "library",
                       "morocco",
                       "std"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T18:07:07.603Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "libCplus",
+                  "description": "Wonderful library with lots of useful functions, algorithms and data structures in C. by @BnademOverflow",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Wonderful library with lots of useful functions, algorithms and data structures in C",
+                    "homepage": null,
+                    "id": 347697416,
+                    "language": "C",
+                    "license": "GPL-3.0",
+                    "last_commit": "2021-07-15T14:17:38Z",
+                    "open_issues": 0,
+                    "owner": "BnademOverflow",
+                    "repo": "libCplus",
+                    "stars": 50,
+                    "topics": [
+                      "algorithms",
+                      "c",
+                      "data-structures",
+                      "imperative-programming",
+                      "library",
+                      "low-level-programming",
+                      "makefile"
                     ]
                   },
                   "first_seen": "2026-08-28T18:07:07.603Z"
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T12:38:50.516Z",
+    "last_updated": "2026-11-09T14:57:44.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
@@ -3320,7 +3320,7 @@
       "open_issues": 2,
       "owner": "geeksblabla",
       "repo": "awesome-morocco",
-      "stars": 752,
+      "stars": 753,
       "topics": [
         "awesome-list",
         "morocco"
