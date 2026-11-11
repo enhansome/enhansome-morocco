@@ -19,11 +19,11 @@
                     "id": 47071941,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-10T01:16:05Z",
-                    "open_issues": 20,
+                    "last_commit": "2026-11-11T01:24:01Z",
+                    "open_issues": 18,
                     "owner": "redux-saga",
                     "repo": "redux-saga",
-                    "stars": 22408,
+                    "stars": 22410,
                     "topics": [
                       "effects",
                       "middleware",
@@ -268,7 +268,7 @@
                     "open_issues": 19,
                     "owner": "FirebaseGoodies",
                     "repo": "FireAdmin",
-                    "stars": 79,
+                    "stars": 78,
                     "topics": [
                       "admin",
                       "admin-dashboard",
@@ -1294,7 +1294,7 @@
                     "open_issues": 20,
                     "owner": "medyo",
                     "repo": "android-about-page",
-                    "stars": 2026,
+                    "stars": 2027,
                     "topics": [
                       "android",
                       "android-ui"
@@ -2031,7 +2031,7 @@
                     "open_issues": 1,
                     "owner": "kennethreitz",
                     "repo": "responder",
-                    "stars": 3617,
+                    "stars": 3618,
                     "topics": [
                       "falcon",
                       "flask",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T23:40:21Z",
+                    "last_commit": "2026-11-10T21:08:29Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -2436,7 +2436,7 @@
                     "open_issues": 2,
                     "owner": "melbahja",
                     "repo": "goph",
-                    "stars": 2036,
+                    "stars": 2037,
                     "topics": [
                       "downloader",
                       "go",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T14:10:47.986Z",
+    "last_updated": "2026-11-11T13:26:31.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
