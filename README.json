@@ -23,7 +23,7 @@
                     "open_issues": 15,
                     "owner": "redux-saga",
                     "repo": "redux-saga",
-                    "stars": 22411,
+                    "stars": 22410,
                     "topics": [
                       "effects",
                       "middleware",
@@ -165,7 +165,7 @@
                     "open_issues": 1,
                     "owner": "aitmiloud",
                     "repo": "cmi-node",
-                    "stars": 126,
+                    "stars": 127,
                     "topics": [
                       "api-client",
                       "cmi",
@@ -1438,7 +1438,7 @@
                     "open_issues": 7,
                     "owner": "php-flasher",
                     "repo": "php-flasher",
-                    "stars": 378,
+                    "stars": 379,
                     "topics": [
                       "flash-messages",
                       "laravel",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-12T21:40:58Z",
+                    "last_commit": "2026-11-13T21:08:07Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -2436,7 +2436,7 @@
                     "open_issues": 2,
                     "owner": "melbahja",
                     "repo": "goph",
-                    "stars": 2038,
+                    "stars": 2039,
                     "topics": [
                       "downloader",
                       "go",
@@ -2969,10 +2969,10 @@
                     "language": "Astro",
                     "license": null,
                     "last_commit": "2026-03-02T15:10:22Z",
-                    "open_issues": 9,
+                    "open_issues": 10,
                     "owner": "geeksblabla",
                     "repo": "geeksblabla.community",
-                    "stars": 298,
+                    "stars": 297,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:07:07.603Z"
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T13:48:55.577Z",
+    "last_updated": "2026-11-14T12:52:26.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
