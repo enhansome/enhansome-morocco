@@ -2056,7 +2056,7 @@
                     "id": 399171157,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T22:46:25Z",
+                    "last_commit": "2026-11-16T22:48:18Z",
                     "open_issues": 3,
                     "owner": "yezz123",
                     "repo": "authx",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-15T20:04:43Z",
+                    "last_commit": "2026-11-16T23:37:51Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -2117,7 +2117,7 @@
                     "open_issues": 3,
                     "owner": "yezz123",
                     "repo": "ai-template",
-                    "stars": 258,
+                    "stars": 259,
                     "topics": [
                       "ai",
                       "asyncio",
@@ -2206,7 +2206,7 @@
                     "id": 517756908,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T22:57:41Z",
+                    "last_commit": "2026-11-16T22:57:16Z",
                     "open_issues": 3,
                     "owner": "yezz123",
                     "repo": "ormdantic",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T14:34:14.452Z",
+    "last_updated": "2026-11-17T15:24:35.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
