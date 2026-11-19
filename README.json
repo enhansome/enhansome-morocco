@@ -23,7 +23,7 @@
                     "open_issues": 18,
                     "owner": "redux-saga",
                     "repo": "redux-saga",
-                    "stars": 22409,
+                    "stars": 22408,
                     "topics": [
                       "effects",
                       "middleware",
@@ -1057,7 +1057,7 @@
                     "id": 540156967,
                     "language": "JavaScript",
                     "license": null,
-                    "last_commit": "2026-10-29T14:07:44Z",
+                    "last_commit": "2026-11-18T18:54:30Z",
                     "open_issues": 0,
                     "owner": "ayoubsousali",
                     "repo": "next-salat",
@@ -2060,7 +2060,7 @@
                     "open_issues": 3,
                     "owner": "yezz123",
                     "repo": "authx",
-                    "stars": 1204,
+                    "stars": 1203,
                     "topics": [
                       "authentification",
                       "authorization",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-17T22:45:35Z",
+                    "last_commit": "2026-11-18T22:27:21Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T14:58:39.842Z",
+    "last_updated": "2026-11-19T15:06:21.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
