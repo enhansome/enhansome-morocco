@@ -23,7 +23,7 @@
                     "open_issues": 18,
                     "owner": "redux-saga",
                     "repo": "redux-saga",
-                    "stars": 22408,
+                    "stars": 22410,
                     "topics": [
                       "effects",
                       "middleware",
@@ -1294,7 +1294,7 @@
                     "open_issues": 20,
                     "owner": "medyo",
                     "repo": "android-about-page",
-                    "stars": 2027,
+                    "stars": 2024,
                     "topics": [
                       "android",
                       "android-ui"
@@ -1318,7 +1318,7 @@
                     "open_issues": 27,
                     "owner": "medyo",
                     "repo": "Fancybuttons",
-                    "stars": 1750,
+                    "stars": 1749,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:07:07.603Z"
@@ -1383,7 +1383,7 @@
                     "open_issues": 30,
                     "owner": "rashidlaasri",
                     "repo": "LaravelInstaller",
-                    "stars": 1931,
+                    "stars": 1930,
                     "topics": [
                       "laravel",
                       "laravel-installer"
@@ -1404,10 +1404,10 @@
                     "language": "PHP",
                     "license": "MIT",
                     "last_commit": "2026-10-31T12:57:03Z",
-                    "open_issues": 9,
+                    "open_issues": 10,
                     "owner": "Zakarialabib",
                     "repo": "myStockMaster",
-                    "stars": 443,
+                    "stars": 442,
                     "topics": [
                       "alpinejs",
                       "crm",
@@ -1438,7 +1438,7 @@
                     "open_issues": 7,
                     "owner": "php-flasher",
                     "repo": "php-flasher",
-                    "stars": 379,
+                    "stars": 378,
                     "topics": [
                       "flash-messages",
                       "laravel",
@@ -2060,7 +2060,7 @@
                     "open_issues": 3,
                     "owner": "yezz123",
                     "repo": "authx",
-                    "stars": 1203,
+                    "stars": 1202,
                     "topics": [
                       "authentification",
                       "authorization",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T22:27:21Z",
+                    "last_commit": "2026-11-19T22:32:18Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -2436,7 +2436,7 @@
                     "open_issues": 2,
                     "owner": "melbahja",
                     "repo": "goph",
-                    "stars": 2040,
+                    "stars": 2039,
                     "topics": [
                       "downloader",
                       "go",
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T15:06:21.246Z",
+    "last_updated": "2026-11-20T14:47:17.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
@@ -3320,7 +3320,7 @@
       "open_issues": 2,
       "owner": "geeksblabla",
       "repo": "awesome-morocco",
-      "stars": 753,
+      "stars": 754,
       "topics": [
         "awesome-list",
         "morocco"
