@@ -1383,7 +1383,7 @@
                     "open_issues": 30,
                     "owner": "rashidlaasri",
                     "repo": "LaravelInstaller",
-                    "stars": 1928,
+                    "stars": 1927,
                     "topics": [
                       "laravel",
                       "laravel-installer"
@@ -2056,7 +2056,7 @@
                     "id": 399171157,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-16T22:48:18Z",
+                    "last_commit": "2026-11-23T23:27:35Z",
                     "open_issues": 3,
                     "owner": "yezz123",
                     "repo": "authx",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-22T20:54:46Z",
+                    "last_commit": "2026-11-24T01:58:47Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -2206,7 +2206,7 @@
                     "id": 517756908,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-16T22:57:16Z",
+                    "last_commit": "2026-11-23T23:41:44Z",
                     "open_issues": 3,
                     "owner": "yezz123",
                     "repo": "ormdantic",
@@ -2791,8 +2791,8 @@
                     "homepage": "https://obendidi.github.io/trackflow/",
                     "id": 98413813,
                     "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-11-23T17:05:13Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-24T09:39:44Z",
                     "open_issues": 0,
                     "owner": "obendidi",
                     "repo": "trackflow",
@@ -3304,7 +3304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T17:10:55.277Z",
+    "last_updated": "2026-11-24T16:53:00.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
