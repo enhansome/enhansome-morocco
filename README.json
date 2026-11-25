@@ -19,11 +19,11 @@
                     "id": 47071941,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-15T14:12:59Z",
-                    "open_issues": 18,
+                    "last_commit": "2026-11-24T17:33:17Z",
+                    "open_issues": 15,
                     "owner": "redux-saga",
                     "repo": "redux-saga",
-                    "stars": 22410,
+                    "stars": 22411,
                     "topics": [
                       "effects",
                       "middleware",
@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-24T01:58:47Z",
+                    "last_commit": "2026-11-24T23:42:58Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -2792,8 +2792,8 @@
                     "id": 98413813,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-24T09:39:44Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-11-25T15:54:56Z",
+                    "open_issues": 1,
                     "owner": "obendidi",
                     "repo": "trackflow",
                     "stars": 522,
@@ -3304,7 +3304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T16:53:00.897Z",
+    "last_updated": "2026-11-25T16:41:09.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
