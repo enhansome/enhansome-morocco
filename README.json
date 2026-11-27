@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-25T23:26:45Z",
+                    "last_commit": "2026-11-26T23:26:34Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -2792,11 +2792,11 @@
                     "id": 98413813,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-26T11:19:00Z",
+                    "last_commit": "2026-11-27T11:33:02Z",
                     "open_issues": 0,
                     "owner": "obendidi",
                     "repo": "trackflow",
-                    "stars": 522,
+                    "stars": 525,
                     "topics": [
                       "botsort",
                       "bytetrack",
@@ -3304,7 +3304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T16:14:34.617Z",
+    "last_updated": "2026-11-27T15:59:37.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
