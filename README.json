@@ -2086,7 +2086,7 @@
                     "id": 459628681,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-26T23:26:34Z",
+                    "last_commit": "2026-11-27T23:08:08Z",
                     "open_issues": 32,
                     "owner": "karimhabush",
                     "repo": "cyberowl",
@@ -2436,7 +2436,7 @@
                     "open_issues": 2,
                     "owner": "melbahja",
                     "repo": "goph",
-                    "stars": 2040,
+                    "stars": 2041,
                     "topics": [
                       "downloader",
                       "go",
@@ -2792,8 +2792,8 @@
                     "id": 98413813,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-27T11:33:02Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-11-28T13:27:23Z",
+                    "open_issues": 1,
                     "owner": "obendidi",
                     "repo": "trackflow",
                     "stars": 525,
@@ -3304,7 +3304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T15:59:37.184Z",
+    "last_updated": "2026-11-28T14:56:30.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 🇲🇦List of awesome Moroccan things for developers  🇲🇦👨🏻‍💻",
@@ -3316,7 +3316,7 @@
       "open_issues": 2,
       "owner": "geeksblabla",
       "repo": "awesome-morocco",
-      "stars": 755,
+      "stars": 754,
       "topics": [
         "awesome-list",
         "morocco"
